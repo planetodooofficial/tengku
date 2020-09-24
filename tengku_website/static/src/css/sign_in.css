@@ -1,0 +1,1005 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400|Poppins:500,400,600|Fira+Sans:700,400,600,500|Arial:400,700|Cabin:400,700');
+
+
+.a00-1-sign-in {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 850px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(245, 246, 248, 1.0);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.sign-in0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 352px;
+  margin              : 0;
+  left                : 165px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 56.0px;
+  color               : rgba(25, 42, 62, 1.0);
+  text-align          : left;
+  line-height         : 84.0px;
+}
+.textfield-icon-right-default1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 230px;
+  height              : 48px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.password0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 314px;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(50, 60, 71, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.1px;
+  line-height         : 20.0px;
+}
+.rectangle-31 {
+  background-color    : rgba(210, 216, 220, 1.0);
+  top                 : 21px;
+  height              : 1px;
+  width               : 350px;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.icon-other-eye2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.vector0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+}
+.vector1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 13px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.textfield-placeholder-default2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 226px;
+  height              : 48px;
+  width               : 353px;
+  margin              : 0;
+  left                : 165px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.first-name0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(129, 142, 155, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.2px;
+  line-height         : 16.0px;
+}
+.email1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(50, 60, 71, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.1px;
+  line-height         : 20.0px;
+}
+.rectangle-32 {
+  background-color    : rgba(210, 216, 220, 1.0);
+  top                 : 26px;
+  height              : 1px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.checkbox3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 280px;
+  height              : 18px;
+  width               : 353px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.checkbox-unchecked0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.unchecked0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  box-sizing          : border-box;
+  width               : 16px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(213, 213, 213, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.keep-me-logged-in1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(144, 160, 183, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.2px;
+  line-height         : 18.0px;
+}
+.button-accent-default4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 310px;
+  height              : 48px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.btn-bg0 {
+  background-color    : rgba(196, 166, 10, 0.95);
+  top                 : 0px;
+  height              : 48px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  box-shadow          : 0px 4px 10px rgba(16,156,241,0.24);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.sign-in1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.1px;
+  line-height         : 20.0px;
+}
+.sign-up5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 430px;
+  height              : 20px;
+  width               : 216px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.dont-have-an-account-0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(76, 88, 98, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.1px;
+  line-height         : 20.0px;
+}
+.sign-up1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 162px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(196, 166, 10, 0.95);
+  text-align          : left;
+  letter-spacing      : 0.1px;
+  line-height         : 20.0px;
+}
+.right-image6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 850px;
+  width               : 800px;
+  position            : absolute;
+  margin              : 0;
+  left                : 640px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bg0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 950px;
+  width               : 880px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.undraw-feeling-proud-qne1-11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 300px;
+  height              : 414px;
+  width               : 440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 180px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.vector0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 235px;
+  height              : 149px;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 319px;
+  transform           : rotate(0deg);
+}
+.vector1-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 235px;
+  height              : 146px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 319px;
+  transform           : rotate(0deg);
+}
+.vector2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 232px;
+  height              : 149px;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+  transform           : rotate(0deg);
+}
+.vector3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 232px;
+  height              : 146px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  transform           : rotate(0deg);
+}
+.vector4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 207px;
+  height              : 30px;
+  width               : 411px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+}
+.vector5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 226px;
+  height              : 10px;
+  width               : 411px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+}
+.vector6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 258px;
+  height              : 6px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  transform           : rotate(0deg);
+}
+.vector7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 280px;
+  height              : 6px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  transform           : rotate(0deg);
+}
+.vector8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 312px;
+  height              : 6px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  transform           : rotate(0deg);
+}
+.vector9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 343px;
+  height              : 6px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  transform           : rotate(0deg);
+}
+.vector10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 6px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 360px;
+  transform           : rotate(0deg);
+}
+.vector11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 283px;
+  height              : 6px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 360px;
+  transform           : rotate(0deg);
+}
+.vector12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 315px;
+  height              : 6px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 360px;
+  transform           : rotate(0deg);
+}
+.vector13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 346px;
+  height              : 6px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 360px;
+  transform           : rotate(0deg);
+}
+.vector14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 137px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 220px;
+  transform           : rotate(0deg);
+}
+.vector15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : 87px;
+  width               : 155px;
+  position            : absolute;
+  margin              : 0;
+  left                : 226px;
+  transform           : rotate(0deg);
+}
+.vector16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 302px;
+  transform           : rotate(0deg);
+}
+.vector17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : 8px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 300px;
+  transform           : rotate(0deg);
+}
+.vector18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 214px;
+  height              : 10px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 192px;
+  transform           : rotate(0deg);
+}
+.vector19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 212px;
+  height              : 11px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 309px;
+  transform           : rotate(0deg);
+}
+.vector20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 212px;
+  height              : 9px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 310px;
+  transform           : rotate(0deg);
+}
+.vector21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 216px;
+  height              : 2px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 327px;
+  transform           : rotate(0deg);
+}
+.vector22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 221px;
+  height              : 3px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 192px;
+  transform           : rotate(0deg);
+}
+.vector23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -0px;
+  height              : 42px;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  transform           : rotate(0deg);
+}
+.vector24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 43px;
+  height              : 53px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  transform           : rotate(0deg);
+}
+.vector25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 352px;
+  height              : 40px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+}
+.vector26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 276px;
+  height              : 35px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  transform           : rotate(0deg);
+}
+.vector27 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 172px;
+  height              : 186px;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+}
+.vector28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 297px;
+  height              : 26px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 138px;
+  transform           : rotate(0deg);
+}
+.vector29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+}
+.vector30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : 138px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+}
+.vector31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : 162px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+}
+.vector32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : 120px;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  transform           : rotate(0deg);
+}
+.vector33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 149px;
+  height              : 62px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  transform           : rotate(0deg);
+}
+.vector34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 31px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  transform           : rotate(0deg);
+}
+.vector35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 75px;
+  height              : 91px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  transform           : rotate(0deg);
+}
+.vector36 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 384px;
+  height              : 31px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+}
+.vector37 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 159px;
+  height              : 67px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+}
+.vector38 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : 95px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  transform           : rotate(0deg);
+}
+.group-1339 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 109px;
+  height              : 34px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 247px;
+  transform           : rotate(0deg);
+}
+.nulla-ac-placerat-sed-id-magnis-2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 760px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 236px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.1px;
+  line-height         : 30.0px;
+}
+.accusam-noluisse-mel-et-ius-duis-menandri-ne-rebum-exerci-ad-his-quo-at-tollit-veniam-assueverit-3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 820px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 402px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 13.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.1px;
+  line-height         : 20.0px;
+}
+.a00-1-sign-in .givvbantu-logo-17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 111px;
+  height              : 74px;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  transform           : rotate(0deg);
+}
+.username-or-password-is-incorrect-29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 265px;
+  height              : auto;
+  width               : 264px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(244, 67, 54, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bounds11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+}
+.shape12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 16px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

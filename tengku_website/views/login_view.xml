@@ -1,0 +1,154 @@
+<odoo>
+    <template id="web.login" name="Login">
+        <t t-call="web.login_layout">
+            <div class="row">
+                <div class="col-4">
+                    <form class="oe_login_form" role="form" t-attf-action="/web/login{{ '?debug' if debug else '' }}" method="post" onsubmit="this.action = this.action + location.hash" style="margin-left:70px;">
+                        <input type="hidden" name="csrf_token" t-att-value="request.csrf_token()"/>
+                        <div class=".a00-1-sign-in anima-word-break">
+                            <!--                         <div style="width: 1440px; height: 100%; position:relative; margin:auto;"> -->
+                            <img alt="Image" src="../tengku_website/static/src/images/givvbantu-logo-1@2x.png" style=" width: 113px;"/>
+                            <div class="sign-in0">
+                                Sign In
+                            </div>
+                        </div>
+
+                        <div class="form-group field-db" t-if="databases and len(databases) > 1">
+                            <label for="db" class="col-form-label">Database</label>
+                            <div t-attf-class="input-group {{'input-group-sm' if form_small else ''}}">
+                                <input type="text" name="db" t-att-value="request.db" id="db" t-attf-class="form-control #{'form-control-sm' if form_small else ''}" required="required" readonly="readonly"/>
+                                <span class="input-group-append">
+                                    <a role="button" href="/web/database/selector" class="btn btn-secondary">
+                                        Select
+                                        <i class="fa fa-database" role="img" aria-label="Database" title="Database"/>
+                                    </a>
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="textfield-placeholder-default2">
+                            <div class="first-name0 anima-hidden ">
+                                First name
+                            </div>
+                            <div class="email1">
+    <!--                            <label for="login">Email</label>-->
+                                <input type="text" placeholder="Email" name="login" t-att-value="login" id="login" autocapitalize="off"/>
+                                <div class="rectangle-32">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="textfield-icon-right-default1">
+                            <div class="password0">
+                                <input type="password" placeholder="Password" name="password" id="password" required="required" maxlength="4096"/>
+                            </div>
+                            <div class="rectangle-31">
+                            </div>
+                            <div class="icon-other-eye2">
+                                <img alt="Image/" anima-src="./img/vector@2x.png" class="vector0" src="/tengku_website/static/src/images/vector@2x.png"/>
+                                <img alt="Image/" anima-src="./img/vector-1@2x.png" class="vector1" src="/tengku_website/static/src/images/vector-1@2x.png"/>
+                            </div>
+                        </div>
+
+                        <div class="checkbox3">
+                            <div class="checkbox-unchecked0">
+                                <div class="unchecked0">
+                                </div>
+                            </div>
+                            <div class="keep-me-logged-in1">
+                                Keep me logged in
+                            </div>
+                        </div>
+                        <!--                     </div> -->
+                            <div class="username-or-password-is-incorrect-29">
+                                Your email or password don’t match our records
+                            </div>
+                        <img alt="Image/"  class="bounds11" src="/tengku_website/static/src/images/vector@2x.png"/>
+                        <img alt="Image/"  class="shape12" src="/tengku_website/static/src/images/shape@2x.png"/>
+<!--                        <p class="alert alert-danger" t-if="error" role="alert">-->
+<!--                            <t t-esc="error"/>-->
+<!--                        </p>-->
+<!--                        <p class="alert alert-success" t-if="message" role="status">-->
+<!--                            <t t-esc="message"/>-->
+<!--                        </p>-->
+
+                        <div class="button-accent-default4">
+                            <div class="btn-bg0">
+                            </div>
+                            <div class="sign-in1">
+                            <button type="submit">Sign in</button>
+                            <t t-if="debug">
+                                <button type="submit" name="redirect" value="/web/become" class="btn btn-link btn-sm btn-block">Log in as superuser</button>
+                            </t>
+                            </div>
+<!--                            <div class="o_login_auth"/>-->
+                        </div>
+                        <div>
+<!--                        </div>-->
+                            <a href="/signup">
+                                <div class="sign-up5">
+                                    <div class="dont-have-an-account-0"> Don’t have an account? </div>
+                                    <div class="sign-up1"> Sign Up </div>
+                                </div>
+                            </a>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="col-8" style="margin-left: 530px; top: -600px;">
+                    <img alt="Image/" class="bg0" src="/tengku_website/static/src/images/bg@1x.png"/>
+                    <div class="undraw-feeling-proud-qne1-11">
+                        <img alt="Image/" class="vector0-1" src="/tengku_website/static/src/images/vector-2@2x.png"/>
+                        <img alt="Image/" class="vector1-1" src="/tengku_website/static/src/images/vector-3@2x.png"/>
+                        <img alt="Image/" class="vector2" src="/tengku_website/static/src/images/vector-4@2x.png"/>
+                        <img alt="Image/" class="vector3" src="/tengku_website/static/src/images/vector-5@2x.png"/>
+                        <img alt="Image/" class="vector4" src="/tengku_website/static/src/images/vector-6@2x.png"/>
+                        <img alt="Image/" class="vector5" src="/tengku_website/static/src/images/vector-7@2x.png"/>
+                        <img alt="Image/" class="vector6" src="/tengku_website/static/src/images/vector-8@2x.png"/>
+                        <img alt="Image/" class="vector7" src="/tengku_website/static/src/images/vector-9@2x.png"/>
+                        <img alt="Image/" class="vector8" src="/tengku_website/static/src/images/vector-10@2x.png"/>
+                        <img alt="Image/" class="vector9" src="/tengku_website/static/src/images/vector-11@2x.png"/>
+                        <img alt="Image/" class="vector10" src="/tengku_website/static/src/images/vector-12@2x.png"/>
+                        <img alt="Image/" class="vector11" src="/tengku_website/static/src/images/vector-13@2x.png"/>
+                        <img alt="Image/" class="vector12" src="/tengku_website/static/src/images/vector-14@2x.png"/>
+                        <img alt="Image/" class="vector13" src="/tengku_website/static/src/images/vector-15@2x.png"/>
+                        <img alt="Image/" class="vector14" src="/tengku_website/static/src/images/vector-16@2x.png"/>
+                        <img alt="Image/" class="vector15" src="/tengku_website/static/src/images/vector-17@2x.png"/>
+                        <img alt="Image/" class="vector16" src="/tengku_website/static/src/images/vector-18@2x.png"/>
+                        <img alt="Image/" class="vector17" src="/tengku_website/static/src/images/vector-19@2x.png"/>
+                        <img alt="Image/" class="vector18" src="/tengku_website/static/src/images/vector-20@2x.png"/>
+                        <img alt="Image/" class="vector19" src="/tengku_website/static/src/images/vector-21@2x.png"/>
+                        <img alt="Image/" class="vector20" src="/tengku_website/static/src/images/vector-22@2x.png"/>
+                        <img alt="Image/" class="vector21" src="/tengku_website/static/src/images/vector-23@2x.png"/>
+                        <img alt="Image/" class="vector22" src="/tengku_website/static/src/images/vector-24@2x.png"/>
+                        <img alt="Image/" class="vector23" src="/tengku_website/static/src/images/vector-25@2x.png"/>
+                        <img alt="Image/" class="vector24" src="/tengku_website/static/src/images/vector-26@2x.png"/>
+                        <img alt="Image/" class="vector25" src="/tengku_website/static/src/images/vector-27@2x.png"/>
+                        <img alt="Image/" class="vector26" src="/tengku_website/static/src/images/vector-28@2x.png"/>
+                        <img alt="Image/" class="vector27" src="/tengku_website/static/src/images/vector-29@2x.png"/>
+                        <img alt="Image/" class="vector28" src="/tengku_website/static/src/images/vector-30@2x.png"/>
+                        <img alt="Image/" class="vector29" src="/tengku_website/static/src/images/vector-31@2x.png"/>
+                        <img alt="Image/" class="vector30" src="/tengku_website/static/src/images/vector-32@2x.png"/>
+                        <img alt="Image/" class="vector31"  src="/tengku_website/static/src/images/vector-33@2x.png"/>
+                        <img alt="Image/" class="vector32" src="/tengku_website/static/src/images/vector-34@2x.png"/>
+                        <img alt="Image/" class="vector33" src="/tengku_website/static/src/images/vector-35@2x.png"/>
+                        <img alt="Image/" class="vector34" src="/tengku_website/static/src/images/vector-36@2x.png"/>
+                        <img alt="Image/" class="vector35" src="/tengku_website/static/src/images/vector-37@2x.png"/>
+                        <img alt="Image/" class="vector36" src="/tengku_website/static/src/images/vector-38@2x.png"/>
+                        <img alt="Image/" class="vector37" src="/tengku_website/static/src/images/vector-39@2x.png"/>
+                        <img alt="Image/" class="vector38" src="/tengku_website/static/src/images/vector-40@2x.png"/>
+                        <img alt="Image/" class="group-1339" src="/tengku_website/static/src/images/group-13@2x.png"/>
+                    </div>
+                                             <div class="nulla-ac-placerat-sed-id-magnis-2">
+                                                 Nulla ac placerat sed id magnis.
+                                             </div>
+                                             <div class="accusam-noluisse-mel-et-ius-duis-menandri-ne-rebum-exerci-ad-his-quo-at-tollit-veniam-assueverit-3">
+                                                 Accusam noluisse mel et. Ius duis menandri ne, rebum exerci ad his. Quo at tollit veniam assueverit.
+                                             </div>
+                    <input type="hidden" name="redirect" t-att-value="redirect"/>
+                </div>
+                <!--             </form> -->
+            </div>
+        </t>
+    </template>
+</odoo>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+        <template id="assets_frontend" name="website assets" inherit_id="web.assets_frontend">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" href="/tengku_website/static/src/css/sign_in.css"/>
+                <link rel="stylesheet" href="/tengku_website/static/src/css/create-acccunt-web-desktop-charity-5.css"/>
+            </xpath>
+        </template>
+</odoo>
