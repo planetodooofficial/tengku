@@ -1,0 +1,2410 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400|Poppins:500,400,600|Fira+Sans:700,400,600,500|Arial:400,700|Cabin:400,700');
+
+
+.anima-overlay {
+  position            : absolute;
+  opacity             : 0;
+  display             : none;
+  top                 : 0;
+  width               : 100%;
+  height              : 100%;
+}
+.create-acccunt-web-desktop-charity-6 {
+  width               : 100%;
+  min-width           : 1360px;
+  height              : 100vh;
+  min-height          : 2091px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(243, 243, 243, 1.0);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.create-acccunt-web-desktop-charity-6 .contacts2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 818px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.create-acccunt-web-desktop-charity-6 .about-us3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 680px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.explore4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.travel5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 472px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.givvbantu-logo-26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 49px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  transform           : rotate(0deg);
+}
+.icon-social-twitter9 {
+  background-color    : rgba(27, 27, 27, 1.0);
+  top                 : 61px;
+  height              : 12px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1105px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-6 .icon-social-twitter9 .twitter0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 15px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+}
+.icon-social-facebook10 {
+  background-color    : rgba(27, 27, 27, 1.0);
+  top                 : 61px;
+  height              : 12px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1196px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.facebook0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -2px;
+  height              : 16px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+}
+.icons8-instagram-90-111 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1152px;
+  transform           : rotate(0deg);
+}
+.background13 {
+  background-color    : rgba(81, 81, 81, 1.0);
+  top                 : 1978px;
+  height              : 113px;
+  width               : 1360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.icon-social-linkedin16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : 20px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1189px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.linkedin0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 17px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.icon-social-twitter17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : 20px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1141px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-6 .icon-social-twitter9 .twitter0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 15px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.icon-social-facebook18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : 20px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1237px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-6 .icon-social-facebook18 .facebook0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -2px;
+  height              : 16px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  transform           : rotate(0deg);
+}
+.contacts20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : auto;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 617px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.about-us21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : auto;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 479px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.explore22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : auto;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 384px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.travel23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2014px;
+  height              : auto;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 271px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.givvbantu-logo-324 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2009px;
+  height              : 44px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 83px;
+  transform           : rotate(0deg);
+}
+.ignore-me-also25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1179px;
+  height              : 48px;
+  width               : 600px;
+  position            : absolute;
+  margin              : 0;
+  left                : 731px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-6 .ignore-me-also25 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 496px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.state1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 584px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.arrow-down2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 465px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.path0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 9px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+}
+.rectangle27 {
+  background-color    : rgba(250, 250, 250, 1.0);
+  top                 : 1522px;
+  height              : 460px;
+  width               : 1360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-6 .vector30-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1805px;
+  height              : 43px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1173px;
+  transform           : rotate(0deg);
+}
+.vector31-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1789px;
+  height              : 55px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1177px;
+  transform           : rotate(0deg);
+}
+.vector35-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1794px;
+  height              : 49px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 885px;
+  transform           : rotate(0deg);
+}
+.xmlid-22938 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1801px;
+  height              : 51px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 652px;
+  transform           : rotate(0deg);
+}
+.xmlid-23039 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1785px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 679px;
+  transform           : rotate(0deg);
+}
+.vector43 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1785px;
+  height              : 67px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 390px;
+  transform           : rotate(0deg);
+}
+.vector47 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1788px;
+  height              : 61px;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  transform           : rotate(0deg);
+}
+.vector50 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1810px;
+  height              : 39px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+}
+.vector53 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1788px;
+  height              : 61px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 194px;
+  transform           : rotate(0deg);
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-54 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1662px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 447px;
+  position            : absolute;
+  margin              : 0;
+  left                : 790px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.we-worked-with55 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1627px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 255px;
+  position            : absolute;
+  margin              : 0;
+  left                : 790px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.0px;
+  line-height         : 24.0px;
+}
+.our-partners56 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1620px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 472px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 40.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  letter-spacing      : -1.0px;
+  line-height         : 50.0px;
+}
+.rectangle57 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 463px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.name58 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 475px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.organization-name-please-follow-as-per-registration-59 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 435px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle60 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 545px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.arrow-down61 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 561px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 597px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.path0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 9px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+}
+.multiple-selection62 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 557px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.type-63 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 517px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle64 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 631px;
+  height              : 126px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.a0-10065 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 740px;
+  height              : 11px;
+  box-sizing          : border-box;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1159px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : right;
+  line-height         : 17.01px;
+}
+.description66 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 631px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 743px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.describe-your-purpose-and-what-you-do-max-100-words-67 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle68 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 463px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.ros-registation-no-69 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 473px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 745px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.rectangle70 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 543px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 727px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.jkm-registation-no-71 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 553px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 743px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.or72 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 517px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 730px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.registration-number-must-have-at-least-jkm-or-ros-73 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 435px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle74 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 381px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 727px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.email75 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 391px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 743px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.organization-email-76 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 350px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 727px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle77 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 627px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.e-g-6-03-123456778 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 637px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.telephone-no-6-state-code-number-79 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle80 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 709px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.e-g-6012-123456781 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 719px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.mobile-no-6xxx-xxxxxxx-82 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 681px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle83 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 860px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.address84 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 870px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.address-line-1-85 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 832px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle86 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 942px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.address87 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 952px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.address-line-288 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 914px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle89 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1027px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.postal-code90 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1037px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 745px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.postal-code-91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 999px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle92 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1027px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.gps-coord-93 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1037px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.how-do-i-know-this-94 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1003px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 516px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : right;
+  line-height         : 17.01px;
+}
+.gps-coordinates-95 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 999px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle96 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 940px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.city97 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 950px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 745px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.arrow-down98 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 956px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1199px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.path0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 9px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+}
+.city-99 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 920px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 730px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle100 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 860px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.state101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 870px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 745px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.arrow-down102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 876px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1200px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.path0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 9px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+}
+.state-103 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 832px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 729px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle104 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 381px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(199, 21, 21, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.nick-name105 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 393px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.organizaton-nick-name-public-name-106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 353px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.registered-address107 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 778px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 584px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.how-do-i-know-this-108 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1324px;
+  height              : 18px;
+  box-sizing          : border-box;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 522px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : right;
+  line-height         : 17.01px;
+}
+.rectangle109 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1181px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.address110 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1191px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.address-line-1-111 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1154px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle112 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1263px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.address113 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1273px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.address-line-2114 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1235px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle115 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1348px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 498px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.postal-code116 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1358px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 586px;
+  position            : absolute;
+  margin              : 0;
+  left                : 751px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.postal-code-117 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1320px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle118 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1348px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 502px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.gps-coord-119 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1358px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.gps-coordinates-120 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1320px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle121 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1264px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 496px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.city122 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1274px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 751px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.arrow-down123 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1280px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1198px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.path0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 9px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+}
+.city-124 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.state-125 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1153px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.shipping-address126 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1099px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 584px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.back127 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1415px;
+  height              : 56px;
+  box-sizing          : border-box;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : 953px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 24.0px;
+}
+.button128 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1415px;
+  height              : 56px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1089px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.ignore-me-also0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 56px;
+  width               : 144px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-6 .button128 .ignore-me-also0-1 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 56px;
+  box-sizing          : border-box;
+  width               : 144px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.next1-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(196, 166, 10, 0.95);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 24.0px;
+}
+.tick-here-if-it-is-the-same-as-registered-adderss130 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1103px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 358px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.ignore-me-also131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1104px;
+  height              : 16px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 339px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.create-acccunt-web-desktop-charity-6 .ignore-me-also131 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  box-sizing          : border-box;
+  width               : 13px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.vector132 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1108px;
+  height              : 9px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 341px;
+  transform           : rotate(0deg);
+}
+.oh-oh-seems-that-your-organization-has-been-registered-please-proceed-to-log-in-or-contact-our-support-134 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1422px;
+  height              : auto;
+  width               : 223px;
+  position            : absolute;
+  margin              : 0;
+  left                : 696px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 0.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.create-acccunt-web-desktop-charity-6 .oh-oh-seems-that-your-organization-has-been-registered-please-proceed-to-log-in-or-contact-our-support-134 .span1 {
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(244, 67, 54, 1.0);
+  line-height         : 16.0px;
+}
+.create-acccunt-web-desktop-charity-6 .oh-oh-seems-that-your-organization-has-been-registered-please-proceed-to-log-in-or-contact-our-support-134 .span2 {
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(45, 156, 219, 1.0);
+  line-height         : 16.0px;
+}
+.create-acccunt-web-desktop-charity-6 .oh-oh-seems-that-your-organization-has-been-registered-please-proceed-to-log-in-or-contact-our-support-134 .span3 {
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(244, 67, 54, 1.0);
+  line-height         : 16.0px;
+}
+.create-acccunt-web-desktop-charity-6 .oh-oh-seems-that-your-organization-has-been-registered-please-proceed-to-log-in-or-contact-our-support-134 .span4 {
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(45, 156, 219, 1.0);
+  line-height         : 16.0px;
+}
+.bounds136 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1444px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 939px;
+  transform           : rotate(0deg);
+}
+.create-acccunt-web-desktop-charity-6 .shape137 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1436px;
+  height              : 15px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 930px;
+  transform           : rotate(0deg);
+}
+.username-or-password-is-incorrect-2139 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 357px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 485px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(244, 67, 54, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.bounds141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 364px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 618px;
+  transform           : rotate(0deg);
+}
+.shape142 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 356px;
+  height              : 15px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 610px;
+  transform           : rotate(0deg);
+}
+.logo143 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 242px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 996px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle144 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 241px;
+  height              : 80px;
+  box-sizing          : border-box;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1099px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.icon-contact-insert145 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 244px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1055px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.vector0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+}
+.vector1-10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 9px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
