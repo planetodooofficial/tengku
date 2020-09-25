@@ -18,6 +18,8 @@
         'views/resources_assets.xml',
         # 'views/sign_up_view.xml',
         'views/sign_up_record.xml',
+        'views/registration_form.xml',
+        'views/thank_you_page1.xml',
 
     ],
     'demo': [
