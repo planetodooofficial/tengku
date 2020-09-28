@@ -1,0 +1,242 @@
+<odoo>
+    <record id="accountpage" model="ir.ui.view">
+        <field name="name">New Account</field>
+        <field name="type">qweb</field>
+        <field name="key">tengku_website.accountpage</field>
+        <field name="arch" type="xml">
+            <t name="Contact Us" t-name="tengku_website.accountpage">
+                <t t-call="website.layout">
+                    <div class="oe_structure">
+                        <div class="container" style="width: 1300px;">
+                            <div id="wrap">
+                                <div class="create-acccunt-web-desktop-charity-7 anima-word-break " style="margin-left: -85px;">
+                                    <div style="width: 1472px; height: 100%; position:relative; margin:top;">
+                                        <div class="contacts2-1">
+                                            Contacts
+                                        </div>
+                                        <div class="about-us3-1">
+                                            About Us
+                                        </div>
+                                        <div class="explore4-1">
+                                            FAQ
+                                        </div>
+                                        <div class="travel5-1">
+                                            Terms
+                                        </div>
+                                        <img alt="Image/" class="givvbantu-logo-26-1" src="/tengku_website/static/src/images/givvbantu-logo-2@2x.png"/>
+                                        <div class="icon-social-twitter9-1">
+                                            <img alt="Image/" class="twitter0-1" src="/tengku_website/static/src/images/twitter-4@2x.png"/>
+                                        </div>
+                                        <div class="icon-social-facebook10-1">
+                                            <img alt="Image/" class="facebook0-1" src="/tengku_website/static/src/images/facebook-4@2x.png"/>
+                                        </div>
+                                        <img alt="Image/" class="icons8-instagram-90-111-1" src="/tengku_website/static/src/images/icons8-instagram-90-1@2x.png"/>
+                                        <div class="create-account12">
+                                            Create Account
+                                        </div>
+                                        <div class="background14">
+                                        </div>
+                                        <div class="icon-social-linkedin17">
+                                            <img alt="Image/" anima-src="./img/linkedin-2@2x.png" class="linkedin0-1" src="/tengku_website/static/src/images/linkedin-2@2x.png"/>
+                                        </div>
+                                        <div class="icon-social-twitter18">
+                                            <img alt="Image/" anima-src="./img/twitter-7@2x.png" class="twitter0-1" src="/tengku_website/static/src/images/twitter-7@2x.png"/>
+                                        </div>
+                                        <div class="icon-social-facebook19">
+                                            <img alt="Image/" anima-src="./img/facebook-7@2x.png" class="facebook0-1" src="/tengku_website/static/src/images/facebook-7@2x.png"/>
+                                        </div>
+                                        <div class="contacts21">
+                                            Contacts
+                                        </div>
+                                        <div class="about-us22">
+                                            About Us
+                                        </div>
+                                        <div class="explore23">
+                                            FAQ
+                                        </div>
+                                        <div class="travel24">
+                                            Terms
+                                        </div>
+                                        <img alt="Image/" anima-src="./img/givvbantu-logo-3-2@2x.png" class="givvbantu-logo-325" src="/tengku_website/static/src/images/givvbantu-logo-3-2@2x.png"/>
+                                        <div class="rectangle27-1">
+                                        </div>
+                                        <img alt="Image/" class="vector30-1" src="/tengku_website/static/src/images/vector-58@2x.png"/>
+                                        <img alt="Image/" class="vector31-1" src="/tengku_website/static/src/images/vector-59@2x.png"/>
+                                        <img alt="Image/" class="vector35-1" src="/tengku_website/static/src/images/vector-60@2x.png"/>
+                                        <img alt="Image/" class="xmlid-22938-1" src="/tengku_website/static/src/images/xmlid-229-2@2x.png"/>
+                                        <img alt="Image/" class="xmlid-23039-1" src="/tengku_website/static/src/images/xmlid-230-2@2x.png"/>
+                                        <img alt="Image/" class="vector43-1" src="/tengku_website/static/src/images/vector-61@2x.png"/>
+                                        <img alt="Image/" class="vector47-1" src="/tengku_website/static/src/images/vector-62@2x.png"/>
+                                        <img alt="Image/" class="vector50-1" src="/tengku_website/static/src/images/vector-63@2x.png"/>
+                                        <img alt="Image/" class="vector53-1" src="/tengku_website/static/src/images/vector-64@2x.png"/>
+                                        <div class="lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-54-1">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                        </div>
+                                        <div class="we-worked-with55-1">
+                                            — WE WORKED WITH
+                                        </div>
+                                        <div class="our-partners56-1">
+                                            Our Partners
+                                        </div>
+                                        <div class="center-information-2-357">
+                                            Center Information 2/3
+                                        </div>
+                                        <div class="upload-your-documents59">
+                                            Upload your Documents
+                                        </div>
+                                        <div class="for-us-to-validate-your-registration-please-submit-the-required-documents60">
+                                            For us to validate your registration, please submit the required documents
+                                        </div>
+                                        <div class="upload261">
+                                            <img alt="Image/" class="vector0-1" src="/tengku_website/static/src/images/vector-65@2x.png"/>
+<!--                                            <input type="text" placeholder="City" required="required"/>-->
+                                        </div>
+                                        <div class="back62 anima-valign-text-middle">
+                                            BACK
+                                        </div>
+                                        <a href="create-acccunt-web-desktop-charity-8.html">
+                                            <div class="button63">
+                                                <div class="ignore-me-also0-1">
+                                                    <div class="rectangle0-1">
+                                                    </div>
+                                                </div>
+                                                <div class="next1-1 anima-valign-text-middle">
+                                                    NEXT
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <div class="do-you-have-tax-exemption-status-64">
+                                            Do you have Tax Exemption status* ?
+                                        </div>
+                                        <div class="yes67 anima-valign-text-middle">
+                                            Yes
+                                        </div>
+                                        <a href="javascript:animaShowOverlay('component-1', 'anima-animate-appear'); anima_loadAsyncSrc(); ">
+                                            <div class="ignore-me-also68">
+                                                <input type="radio"/>
+<!--                                                <div class="rectangle0-1">-->
+<!--                                                </div>-->
+                                            </div>
+                                        </a>
+                                        <img alt="Image/" class="ellipse69" src="/tengku_website/static/src/images/vector@2x.png"/>
+                                        <div class="no71 anima-valign-text-middle">
+                                            No
+                                        </div>
+                                        <div class="ignore-me-also72">
+                                            <input type="radio"/>
+<!--                                            <div class="rectangle0-1">-->
+<!--                                            </div>-->
+                                        </div>
+<!--                                        <img alt="Image/" class="ellipse73" src="/tengku_website/static/src/images/ellipse-1@2x.png"/>-->
+                                        <div class="ignore-me-also75">
+<!--                                            <div class="rectangle0-1">-->
+<!--                                            </div>-->
+                                            <div class="webstie-url1 anima-valign-text-middle">
+                                                <input type="text" placeholder="Webstie URL" required="required"/>
+
+                                            </div>
+                                        </div>
+                                        <img alt="Image/" class="icons8-instagram-100-1-176" src="/tengku_website/static/src/images/icons8-instagram-100--1--1@2x.png"/>
+                                        <div class="ignore-me-also78">
+<!--                                            <div class="rectangle0-1">-->
+<!--                                            </div>-->
+                                            <div class="url1 anima-valign-text-middle">
+                                                <input type="text" placeholder="URL" required="required"/>
+                                            </div>
+                                        </div>
+                                        <div class="ignore-me-also79">
+<!--                                            <div class="rectangle0-1">-->
+<!--                                            </div>-->
+                                            <div class="url1-1 anima-valign-text-middle">
+                                                <input type="text" placeholder="URL" required="required"/>
+                                            </div>
+                                        </div>
+                                        <div class="ignore-me-also80">
+<!--                                            <div class="rectangle0-1">-->
+<!--                                            </div>-->
+                                            <div class="url1-1 anima-valign-text-middle">
+                                                <input type="text" placeholder="URL" required="required"/>
+                                            </div>
+                                        </div>
+                                        <div class="website-address-social-media-accounts81">
+                                            Website Address and Social Media Accounts
+                                        </div>
+                                        <div class="enter-your-social-media-accounts-so-that-users-are-able-to-get-updated-once-you-update-your-social-media82">
+                                            Enter your social media accounts, so that users are able to get updated once you update your social media
+                                        </div>
+                                        <div class="icon-contact-twitter83">
+                                            <img alt="Image/" class="vector0-1" src="/tengku_website/static/src/images/vector-66@2x.png"/>
+                                        </div>
+                                        <div class="icon-contact-facebook84">
+                                            <img alt="Image/" class="vector1-10" src="/tengku_website/static/src/images/vector-67@2x.png"/>
+                                        </div>
+                                        <div class="bank-details87">
+                                            Bank Details
+                                        </div>
+                                        <div class="rectangle88">
+                                            <input type="text" required="required" style="width:368px; height:47px;"/>
+
+                                        </div>
+                                        <div class="account-number-89">
+                                            Account Number *
+                                        </div>
+                                        <div class="ignore-me-also91">
+<!--                                            <div class="rectangle0-1">-->
+<!--                                            </div>-->
+
+                                            <div class="doc-pdf1 anima-valign-text-middle">
+                                                <input type="text" placeholder="doc.pdf" required="required"/>
+                                            </div>
+                                        </div>
+                                        <div class="icon-contact-attach92">
+                                            <img alt="Image/" class="vector0-1" src="/tengku_website/static/src/images/vector-68@2x.png"/>
+                                            <img alt="Image/" class="vector1-10" src="/tengku_website/static/src/images/vector@2x.png"/>
+                                        </div>
+                                        <div class="max-size-500kb93">
+                                            Max Size - 500Kb
+                                        </div>
+                                        <div class="registration-certificate-ros-jkm-94">
+                                            Registration Certificate *<br></br>(ROS/ JKM)
+                                        </div>
+                                        <div class="ignore-me-also96">
+                                            <div class="rectangle0-1">
+                                            </div>
+                                        </div>
+                                        <div class="icon-contact-attach97">
+                                            <img alt="Image/"  class="vector0-1" src="/tengku_website/static/src/images/vector-68@2x.png"/>
+                                            <img alt="Image/"  class="vector1-10" src="/tengku_website/static/src/images/vector@2x.png"/>
+                                        </div>
+                                        <div class="please-submit-only-the-front-page-indicating-your-registered-organization-name-and-account-number-98">
+                                            Please submit only the front page indicating your registered organization name and account number
+                                        </div>
+                                        <div class="front-page-of-bank-statement-99">
+                                            Front page of bank statement *
+                                        </div>
+                                        <div class="rectangle101">
+                                            <input type="text" required="required" style="width:368px; height:47px;"/>
+                                        </div>
+                                        <div class="arrow-down102-1">
+                                            <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>
+                                        </div>
+                                        <div class="name-of-bank-103">
+                                            Name of Bank *
+                                        </div>
+                                    </div>
+        </div>
+                            </div>
+                        </div>
+                    </div>
+                </t>
+            </t>
+        </field>
+    </record>
+
+    <record id="create_account_page" model="website.page">
+        <field name="url">/newaccount</field>
+        <field name="is_published">True</field>
+        <field name="view_id" ref="tengku_website.accountpage"/>
+        <field name="track">True</field>
+    </record>
+
+
+</odoo>

@@ -6,6 +6,8 @@
                 <link rel="stylesheet" href="/tengku_website/static/src/css/create-acccunt-web-desktop-charity-5.css"/>
                 <link rel="stylesheet" href="/tengku_website/static/src/css/create-acccunt-web-desktop-charity-6.css"/>
                 <link rel="stylesheet" href="/tengku_website/static/src/css/create-acccunt-web-desktop-charity-9.css"/>
+                <link rel="stylesheet" href="/tengku_website/static/src/css/create-acccunt-web-desktop-charity-13.css"/>
+                <link rel="stylesheet" href="/tengku_website/static/src/css/create-acccunt-web-desktop-charity-7.css"/>
             </xpath>
         </template>
 </odoo>

@@ -1,15 +1,15 @@
 <odoo>
-    <record id="thankyou" model="ir.ui.view">
+    <record id="thankyou2" model="ir.ui.view">
         <field name="name">Thank You</field>
         <field name="type">qweb</field>
-        <field name="key">tengku_website.thankyou</field>
+        <field name="key">tengku_website.thankyou2</field>
         <field name="arch" type="xml">
-            <t name="Contact Us" t-name="tengku_website.thankyou">
+            <t name="Contact Us" t-name="tengku_website.thankyou2">
                 <t t-call="website.layout">
                     <div class="oe_structure">
                         <div class="container">
                             <div id="wrap">
-                                <div class="create-acccunt-web-desktop-charity-9 anima-word-break " style="margin-left: -85px;">
+                                <div class="create-acccunt-web-desktop-charity-13 anima-word-break " style="margin-left: -85px;">
                                     <div style="width: 1440px; height: 100%; position:relative; margin:auto;">
                                         <div class="contacts2-2">
                                             Contacts
@@ -34,12 +34,8 @@
                                         <div class="thanks-12">
                                             Thanks !
                                         </div>
-                                        <div class="your-registration-has-been-received-you-will-get-an-email-once-your-registration-has-been-approved-and-you-can-start-raising-money-items-for-your-project-in-the-meantime-please-inform-your-team-members-to-check-their-email-for-account-creation13">
-                                            <span data-id="318:78 span1" class="span1">Your registration has been received.
-                                                <br></br>
-                                            </span>
-                                            <span data-id="318:78 span2" class="span2">You will get an email once your registration has been approved and you can start raising money/items for your project<br></br>In the meantime, please inform your team members to check their email for account creation
-                                            </span>
+                                        <div class="your-registration-has-been-received-you-will-get-an-email-once-your-registration-has-been-approved-and-you-can-start-having-your-products-services-available-for-donation-in-the-meantime-please-inform-your-team-members-to-check-their-email-for-account-creation49">
+                                            <span data-id="318:858 span1" class="span1">Your registration has been received. <br></br></span><span data-id="318:858 span2" class="span2">You will get an email once your registration has been approved and you can start having your products &amp; services available for donation<br></br>In the meantime, please inform your team members to check their email for account creation</span>
                                         </div>
                                         <div class="download-the-app-to-start-giving14">
                                             Download the app, <br></br> to start giving
@@ -104,10 +100,10 @@
         </field>
     </record>
 
-    <record id="create_thanks_page" model="website.page">
-        <field name="url">/thankyou</field>
+    <record id="create_thanks_you" model="website.page">
+        <field name="url">/thankyouagain</field>
         <field name="is_published">True</field>
-        <field name="view_id" ref="tengku_website.thankyou"/>
+        <field name="view_id" ref="tengku_website.thankyou2"/>
         <field name="track">True</field>
     </record>
 

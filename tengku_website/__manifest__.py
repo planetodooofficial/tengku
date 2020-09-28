@@ -20,6 +20,9 @@
         'views/sign_up_record.xml',
         'views/registration_form.xml',
         'views/thank_you_page1.xml',
+        'views/thank_you_page2.xml',
+        'views/account_page.xml',
+        'views/tengku_partner.xml',
 
     ],
     'demo': [

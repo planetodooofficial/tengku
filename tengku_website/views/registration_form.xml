@@ -9,7 +9,7 @@
                     <div class="oe_structure">
                         <div class="container">
                             <div id="wrap">
-                                <div class="create-acccunt-web-desktop-charity-6 anima-word-break ">
+                                <div class="create-acccunt-web-desktop-charity-6 anima-word-break " style="margin-left: -85px;">
                                     <div style="width: 1360px; height: 100%; position:relative; margin:auto;">
                                         <div class="contacts2">
                                             Contacts
@@ -218,7 +218,7 @@
 <!--                                        <div class="rectangle104">-->
 <!--                                        </div>-->
                                         <div class="nick-name105 anima-valign-text-middle">
-                                            <input type="text" placeholder="Nick Name" required="required" style="width:490px;"/>
+                                            <input type="text" placeholder="Nick Name" name="org_name" required="required" style="width:490px;"/>
                                         </div>
                                         <div class="organizaton-nick-name-public-name-106">
                                             Organizaton Nick Name * (Public Name)
@@ -281,7 +281,7 @@
                                         <div class="back127 anima-valign-text-middle">
                                             BACK
                                         </div>
-                                        <a href="create-acccunt-web-desktop-charity-7.html">
+                                        <a href="/create/webuser">
                                             <div class="button128">
                                                 <div class="ignore-me-also0-1">
                                                     <div class="rectangle0-1">

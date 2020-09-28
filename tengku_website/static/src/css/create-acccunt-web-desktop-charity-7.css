@@ -1,0 +1,1594 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400|Poppins:500,400,600|Fira+Sans:700,400,600,500|Arial:400,700|Cabin:400,700');
+
+
+.anima-overlay {
+  position            : absolute;
+  opacity             : 0;
+  display             : none;
+  top                 : 0;
+  width               : 100%;
+  height              : 100%;
+}
+.create-acccunt-web-desktop-charity-7 {
+  width               : 100%;
+  min-width           : 1472px;
+  height              : 100vh;
+  min-height          : 2091px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(243, 243, 243, 1.0);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.contacts2-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 818px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.create-acccunt-web-desktop-charity-7 .about-us3-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 680px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.create-acccunt-web-desktop-charity-7 .explore4-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 585px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.create-acccunt-web-desktop-charity-7 .travel5-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 472px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.create-acccunt-web-desktop-charity-7 .givvbantu-logo-26-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 49px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  transform           : rotate(0deg);
+}
+.create-acccunt-web-desktop-charity-7 .icon-social-twitter9-1 {
+  background-color    : rgba(27, 27, 27, 1.0);
+  top                 : 64px;
+  height              : 12px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1163px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .icon-social-twitter9-1 .twitter0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 15px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+}
+.create-acccunt-web-desktop-charity-7 .icon-social-facebook10-1 {
+  background-color    : rgba(27, 27, 27, 1.0);
+  top                 : 64px;
+  height              : 12px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1254px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .icon-social-facebook10-1 .facebook0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -2px;
+  height              : 16px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+}
+.create-acccunt-web-desktop-charity-7 .icons8-instagram-90-111-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1210px;
+  transform           : rotate(0deg);
+}
+.create-account12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 176px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 652px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 60.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  letter-spacing      : -1.0px;
+  line-height         : 70.0px;
+}
+.background14 {
+  background-color    : rgba(81, 81, 81, 1.0);
+  top                 : 1959px;
+  height              : 132px;
+  width               : 1473px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.icon-social-linkedin17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2001px;
+  height              : 24px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1287px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .icon-social-linkedin17 .linkedin0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 17px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+}
+.icon-social-twitter18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2001px;
+  height              : 24px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1235px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .icon-social-twitter18 .twitter0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 15px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+}
+.icon-social-facebook19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2001px;
+  height              : 24px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1339px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .icon-social-facebook19 .facebook0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 16px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+}
+.create-acccunt-web-desktop-charity-7 .contacts21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2001px;
+  height              : auto;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 667px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.create-acccunt-web-desktop-charity-7 .about-us22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2001px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 518px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.create-acccunt-web-desktop-charity-7 .explore23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2001px;
+  height              : auto;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.create-acccunt-web-desktop-charity-7 .travel24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2001px;
+  height              : auto;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 28.0px;
+}
+.givvbantu-logo-325 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1988px;
+  height              : 49px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  transform           : rotate(0deg);
+}
+.rectangle27-1 {
+  background-color    : rgba(250, 250, 250, 1.0);
+  top                 : 1479px;
+  height              : 480px;
+  width               : 1472px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.vector30-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1774px;
+  height              : 45px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1268px;
+  transform           : rotate(0deg);
+}
+.vector31-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1758px;
+  height              : 57px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1272px;
+  transform           : rotate(0deg);
+}
+.vector35-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1763px;
+  height              : 50px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 957px;
+  transform           : rotate(0deg);
+}
+.xmlid-22938-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1770px;
+  height              : 52px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 704px;
+  transform           : rotate(0deg);
+}
+.xmlid-23039-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1754px;
+  height              : 17px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 734px;
+  transform           : rotate(0deg);
+}
+.vector43-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1754px;
+  height              : 70px;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 421px;
+  transform           : rotate(0deg);
+}
+.vector47-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1757px;
+  height              : 63px;
+  width               : 63px;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  transform           : rotate(0deg);
+}
+.vector50-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1780px;
+  height              : 41px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  transform           : rotate(0deg);
+}
+.vector53-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1757px;
+  height              : 63px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 208px;
+  transform           : rotate(0deg);
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-54-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1625px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 854px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.we-worked-with55-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1589px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : 854px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.0px;
+  line-height         : 24.0px;
+}
+.our-partners56-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1581px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 511px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 40.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  letter-spacing      : -1.0px;
+  line-height         : 50.0px;
+}
+.center-information-2-357 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 270px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 584px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 40.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  letter-spacing      : -1.0px;
+  line-height         : 50.0px;
+}
+.upload-your-documents59 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 354px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 584px;
+  position            : absolute;
+  margin              : 0;
+  left                : 123px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.for-us-to-validate-your-registration-please-submit-the-required-documents60 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 417px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.upload261 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 363px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .upload261 .vector0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 14px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.back62 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1315px;
+  height              : 56px;
+  box-sizing          : border-box;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : 925px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(130, 130, 130, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 24.0px;
+}
+.button63 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1315px;
+  height              : 56px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1061px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.ignore-me-also0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 56px;
+  width               : 144px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .button63 .ignore-me-also0-1 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 56px;
+  box-sizing          : border-box;
+  width               : 144px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.next1-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(196, 166, 10, 0.95);
+  text-align          : center;
+  letter-spacing      : 4.0px;
+  line-height         : 24.0px;
+}
+.do-you-have-tax-exemption-status-64 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 528px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 618px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.yes67 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 566px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.ignore-me-also68 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 572px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.create-acccunt-web-desktop-charity-7 .ignore-me-also68 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  box-sizing          : border-box;
+  width               : 16px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 100px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.ellipse69 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 580px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  transform           : rotate(0deg);
+}
+.create-acccunt-web-desktop-charity-7 .no71 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 566px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 375px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.ignore-me-also72 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 572px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 351px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.create-acccunt-web-desktop-charity-7 .ignore-me-also72 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  box-sizing          : border-box;
+  width               : 16px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 100px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.ellipse73 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 576px;
+  height              : 8px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 355px;
+  transform           : rotate(0deg);
+}
+.ignore-me-also75 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1068px;
+  height              : 48px;
+  width               : 379px;
+  position            : absolute;
+  margin              : 0;
+  left                : 577px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .ignore-me-also75 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.webstie-url1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 363px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.icons8-instagram-100-1-176 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1219px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 910px;
+  transform           : rotate(0deg);
+}
+.ignore-me-also78 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1068px;
+  height              : 48px;
+  width               : 362px;
+  position            : absolute;
+  margin              : 0;
+  left                : 970px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .ignore-me-also78 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.url1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 346px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(-0.313406500651deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.ignore-me-also79 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1134px;
+  height              : 48px;
+  width               : 363px;
+  position            : absolute;
+  margin              : 0;
+  left                : 970px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .ignore-me-also79 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.url1-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 346px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(-0.313406500651deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.ignore-me-also80 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1199px;
+  height              : 48px;
+  width               : 363px;
+  position            : absolute;
+  margin              : 0;
+  left                : 970px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .ignore-me-also80 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.url1-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 28px;
+  box-sizing          : border-box;
+  width               : 346px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(-0.313406500651deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.website-address-social-media-accounts81 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1068px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.enter-your-social-media-accounts-so-that-users-are-able-to-get-updated-once-you-update-your-social-media82 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1165px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 398px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.icon-contact-twitter83 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1084px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 911px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .icon-contact-twitter83 .vector0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 15px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.icon-contact-facebook84 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1153px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 908px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .icon-contact-facebook84 .vector1-10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.bank-details87 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 715px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(34, 34, 34, 1.0);
+  text-align          : left;
+  line-height         : 32.0px;
+}
+.create-acccunt-web-desktop-charity-7 .rectangle88 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 789px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 370px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.account-number-89 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 760px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.ignore-me-also91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 440px;
+  height              : 48px;
+  width               : 198px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1027px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .ignore-me-also91 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 198px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.create-acccunt-web-desktop-charity-7 .ignore-me-also91 .doc-pdf1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 34px;
+  box-sizing          : border-box;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+  line-height         : 27.22px;
+}
+.icon-contact-attach92 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 454px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 979px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .icon-contact-attach92 .vector0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 16px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+}
+.vector1-10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+}
+.max-size-500kb93 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 445px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 793px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(79, 79, 79, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.registration-certificate-ros-jkm-94 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 379px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 256px;
+  position            : absolute;
+  margin              : 0;
+  left                : 793px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.ignore-me-also96 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 891px;
+  height              : 48px;
+  width               : 198px;
+  position            : absolute;
+  margin              : 0;
+  left                : 857px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .ignore-me-also96 .rectangle0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 198px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.icon-contact-attach97 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 915px;
+  height              : 20px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1071px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .icon-contact-attach97 .vector0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 16px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 6px;
+  transform           : rotate(0deg);
+}
+.create-acccunt-web-desktop-charity-7 .icon-contact-attach97 .vector1-10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+}
+.please-submit-only-the-front-page-indicating-your-registered-organization-name-and-account-number-98 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 910px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 677px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Fira Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(79, 79, 79, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.front-page-of-bank-statement-99 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 853px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 294px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+.rectangle101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 789px;
+  height              : 48px;
+  box-sizing          : border-box;
+  width               : 370px;
+  position            : absolute;
+  margin              : 0;
+  left                : 794px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(38, 38, 38, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.arrow-down102-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 805px;
+  height              : 16px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1133px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.create-acccunt-web-desktop-charity-7 .arrow-down102-1 .path0-1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 9px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+}
+.name-of-bank-103 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 760px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 793px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Cabin", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(38, 38, 38, 1.0);
+  text-align          : left;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
