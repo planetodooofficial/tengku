@@ -9,12 +9,34 @@ class SignUpWebPage(http.Controller):
     #     return http.request.render('tengku_website.create_page', {})
 
     @http.route('/create/webuser', type="http", auth="public", website=True)
-    def create_webuser(self, **kw):
-        print("Data Received.....", kw)
+    def create_webuser(self, **post):
+        print("Data Received.....", post)
         # request.env['res.users'].sudo().create(kw)
         user_val = {
-            'name': kw.get('org_nick_name')
+            'name': post.get('org_name'),
+            'login': post.get('email'),
         }
         request.env['res.users'].sudo().create(user_val)
-        return request.render("tengku_website.registration", {})
+
+        partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('org_name'))])
+
+        partner_search.update({
+            'org_nick_name': post.get('org_nick_name'),
+            'company_type': 'company',
+            'email': post.get('email'),
+            'street': post.get('register_address_line1'),
+            'street2': post.get('register_address_line2'),
+            'city': post.get('register_address_city'),
+            # 'state_id': post.get('register_address_state'),
+            'country_id': 157,
+            'zip': post.get('register_address_pin_code'),
+            'gps_coordinates': post.get('register_address_gps'),
+            'registration_no': post.get('ros_registration'),
+            'description': post.get('descp'),
+            'phone': post.get('phone'),
+            'mobile': post.get('mobile'),
+        })
+
+
+        return request.render('tengku_website.accountpage', {'res_id': partner_search.id})
 

@@ -89,7 +89,7 @@
                                         </div>
                                         <div class="upload261">
                                             <img alt="Image/" class="vector0-1" src="/tengku_website/static/src/images/vector-65@2x.png"/>
-<!--                                            <input type="text" placeholder="City" required="required"/>-->
+                                            <!--                                            <input type="text" placeholder="City" required="required"/>-->
                                         </div>
                                         <div class="back62 anima-valign-text-middle">
                                             BACK
@@ -109,28 +109,28 @@
                                             Do you have Tax Exemption status* ?
                                         </div>
                                         <div class="yes67 anima-valign-text-middle">
-                                            Yes
+                                            <input class="form-check-input radio-yes" type="radio" name="tax_radio" id="tax_yes" value="yes"/> Yes
                                         </div>
-                                        <a href="javascript:animaShowOverlay('component-1', 'anima-animate-appear'); anima_loadAsyncSrc(); ">
-                                            <div class="ignore-me-also68">
-                                                <input type="radio"/>
-<!--                                                <div class="rectangle0-1">-->
-<!--                                                </div>-->
-                                            </div>
-                                        </a>
-                                        <img alt="Image/" class="ellipse69" src="/tengku_website/static/src/images/vector@2x.png"/>
+                                        <!--                                        <a href="javascript:animaShowOverlay('component-1', 'anima-animate-appear'); anima_loadAsyncSrc(); ">-->
+                                        <!--                                            <div class="ignore-me-also68">-->
+                                        <!--                                                <input type="radio"/>-->
+                                        <!--&lt;!&ndash;                                                <div class="rectangle0-1">&ndash;&gt;-->
+                                        <!--&lt;!&ndash;                                                </div>&ndash;&gt;-->
+                                        <!--                                            </div>-->
+                                        <!--                                        </a>-->
+                                        <!--                                        <img alt="Image/" class="ellipse69" src="/tengku_website/static/src/images/vector@2x.png"/>-->
                                         <div class="no71 anima-valign-text-middle">
-                                            No
+                                            <input class="form-check-input radio-no" type="radio" name="tax_radio" id="tax_no" value="yes"/> No
                                         </div>
-                                        <div class="ignore-me-also72">
-                                            <input type="radio"/>
-<!--                                            <div class="rectangle0-1">-->
-<!--                                            </div>-->
-                                        </div>
-<!--                                        <img alt="Image/" class="ellipse73" src="/tengku_website/static/src/images/ellipse-1@2x.png"/>-->
+                                        <!--                                        <div class="ignore-me-also72">-->
+                                        <!--                                            <input type="radio"/>-->
+                                        <!--&lt;!&ndash;                                            <div class="rectangle0-1">&ndash;&gt;-->
+                                        <!--&lt;!&ndash;                                            </div>&ndash;&gt;-->
+                                        <!--                                        </div>-->
+                                        <!--                                        <img alt="Image/" class="ellipse73" src="/tengku_website/static/src/images/ellipse-1@2x.png"/>-->
                                         <div class="ignore-me-also75">
-<!--                                            <div class="rectangle0-1">-->
-<!--                                            </div>-->
+                                            <!--                                            <div class="rectangle0-1">-->
+                                            <!--                                            </div>-->
                                             <div class="webstie-url1 anima-valign-text-middle">
                                                 <input type="text" placeholder="Webstie URL" required="required"/>
 
@@ -138,22 +138,22 @@
                                         </div>
                                         <img alt="Image/" class="icons8-instagram-100-1-176" src="/tengku_website/static/src/images/icons8-instagram-100--1--1@2x.png"/>
                                         <div class="ignore-me-also78">
-<!--                                            <div class="rectangle0-1">-->
-<!--                                            </div>-->
+                                            <!--                                            <div class="rectangle0-1">-->
+                                            <!--                                            </div>-->
                                             <div class="url1 anima-valign-text-middle">
                                                 <input type="text" placeholder="URL" required="required"/>
                                             </div>
                                         </div>
                                         <div class="ignore-me-also79">
-<!--                                            <div class="rectangle0-1">-->
-<!--                                            </div>-->
+                                            <!--                                            <div class="rectangle0-1">-->
+                                            <!--                                            </div>-->
                                             <div class="url1-1 anima-valign-text-middle">
                                                 <input type="text" placeholder="URL" required="required"/>
                                             </div>
                                         </div>
                                         <div class="ignore-me-also80">
-<!--                                            <div class="rectangle0-1">-->
-<!--                                            </div>-->
+                                            <!--                                            <div class="rectangle0-1">-->
+                                            <!--                                            </div>-->
                                             <div class="url1-1 anima-valign-text-middle">
                                                 <input type="text" placeholder="URL" required="required"/>
                                             </div>
@@ -181,8 +181,8 @@
                                             Account Number *
                                         </div>
                                         <div class="ignore-me-also91">
-<!--                                            <div class="rectangle0-1">-->
-<!--                                            </div>-->
+                                            <!--                                            <div class="rectangle0-1">-->
+                                            <!--                                            </div>-->
 
                                             <div class="doc-pdf1 anima-valign-text-middle">
                                                 <input type="text" placeholder="doc.pdf" required="required"/>
@@ -220,9 +220,48 @@
                                         </div>
                                         <div class="name-of-bank-103">
                                             Name of Bank *
+                                            <input type="text" name="res_id" id="res_id"/>
+                                        </div>
+
+                                        <div class="anima-overlay" id="overlay-component-1" style="min-height:2091px; position:fixed;">
+                                        <div class="component-1 anima-word-break ">
+                                            <div style="width: 480px; height: 100%; position:relative; margin:auto;">
+<!--                                                <div class="ignore-me-also0-1">-->
+<!--                                                    <div class="rectangle0-1">-->
+<!--                                                    </div>-->
+<!--                                                </div>-->
+                                                <div class="icon-contact-attach1">
+                                                    <img alt="Image/" anima-src="./img/vector-99@2x.png" class="vector0-1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                                    <img alt="Image/" anima-src="./img/vector-100@2x.png" class="vector1-10" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                                </div>
+                                                <div class="please-submit-your-tax-exemption-letter-from-the-ministry-of-finance-lhdn2">
+                                                    Please submit your tax exemption letter from the Ministry of Finance/ LHDN
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
-        </div>
+
+                                    </div>
+
+                                    <div class="anima-overlay" id="overlay-component-1" style="min-height:2091px; position:fixed;">
+                                        <div class="component-1 anima-word-break ">
+                                            <div style="width: 480px; height: 100%; position:relative; margin:auto;">
+                                                <div class="ignore-me-also0-1">
+                                                    <div class="rectangle0-1">
+                                                    </div>
+                                                </div>
+                                                <div class="icon-contact-attach1">
+                                                    <img alt="Image/" anima-src="./img/vector-99@2x.png" class="vector0-1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                                    <img alt="Image/" anima-src="./img/vector-100@2x.png" class="vector1-10" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                                                </div>
+                                                <div class="please-submit-your-tax-exemption-letter-from-the-ministry-of-finance-lhdn2">
+                                                    Please submit your tax exemption letter from the Ministry of Finance/ LHDN
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
                             </div>
                         </div>
                     </div>

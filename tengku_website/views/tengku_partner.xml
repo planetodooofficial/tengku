@@ -20,10 +20,10 @@
                 </xpath>
 
                 <xpath expr="//field[@name='vat']" position="after">
-                    <field name="type"/>
+                    <field name="center_type"/>
                 </xpath>
 
-                <xpath expr="//field[@name='category_id']" position="after">
+                <xpath expr="//field[@name='country_id']" position="after">
                     <field name="gps_coordinates"/>
                 </xpath>
             </field>
