@@ -23,6 +23,7 @@
         'views/thank_you_page2.xml',
         'views/account_page.xml',
         'views/tengku_partner.xml',
+        'views/account_page2.xml',
 
     ],
     'demo': [

@@ -1,0 +1,140 @@
+<odoo>
+    <record id="accountpage2" model="ir.ui.view">
+        <field name="name">New Account</field>
+        <field name="type">qweb</field>
+        <field name="key">tengku_website.accountpage2</field>
+        <field name="arch" type="xml">
+            <t name="Contact Us" t-name="tengku_website.accountpage2">
+                <t t-call="website.layout">
+                    <div class="oe_structure">
+                        <div class="container" style="width: 1300px;">
+                            <div id="wrap">
+                                <div class="anima-container-center-horizontal" style="margin-left: -85px;">
+                                      <div class="create-acccunt-webdesktopcharity-8 border-class-1 anima-screen ">
+                                        <div class="contacts-C61RwL font-class-1">Contacts</div>
+                                        <div class="about-us-C61RwL font-class-1">About Us</div>
+                                        <div class="explore-C61RwL font-class-1">FAQ</div>
+                                        <div class="travel-C61RwL font-class-1">Terms</div>
+                                        <img class="givvbantu-logo-2-C61RwL" src="/tengku_website/static/src/images/givvbantu-logo-2@2x.png"/>
+                                        <div class="icon-social-twitter-C61RwL">
+                                            <img class="twitter-ukH1DM" src="/tengku_website/static/src/images/twitter@2x.png"/>
+                                        </div>
+                                        <div class="icon-social-facebook-C61RwL">
+                                            <img class="facebook-xIvpKk" src="/tengku_website/static/src/images/facebook@2x.png"/>
+                                        </div>
+                                        <img class="icons8-ins-agram-90-1-C61RwL" src="/tengku_website/static/src/images/icons8-instagram-90-1@2x.png"/>
+                                        <div class="background-C61RwL"></div>
+                                        <div class="icon-social-linkedin-C61RwL">
+                                            <img class="linkedin-Vcx4Rx" src="/tengku_website/static/src/images/linkedin@2x.png"/>
+                                        </div>
+                                        <div class="icon-social-twitter-VMr6Om">
+                                            <img class="twitter-rubtAs" src="/tengku_website/static/src/images/twitter-1@2x.png"/>
+                                        </div>
+                                        <div class="icon-social-facebook-VMr6Om">
+                                            <img class="facebook-RAoC7C" src="/tengku_website/static/src/images/facebook-1@2x.png"/>
+                                        </div>
+                                        <div class="contacts-VMr6Om font-class-1">Contacts</div>
+                                        <div class="about-us-VMr6Om font-class-1">About Us</div>
+                                        <div class="explore-VMr6Om font-class-1">FAQ</div>
+                                        <div class="travel-VMr6Om font-class-1">Terms</div>
+                                        <img class="givvbantu-logo-3-C61RwL" src="/tengku_website/static/src/images/givvbantu-logo-3@2x.png"/>
+                                        <div class="rectangle-C61RwL"></div>
+                                        <img class="vector-C61RwL" src="/tengku_website/static/src/images/vector@vx.png"/>
+                                        <img class="vector-VMr6Om" src="/tengku_website/static/src/images/vector-1@vx.png"/>
+                                        <img class="vector-mzXdH9" src="/tengku_website/static/src/images/vector-2@vx.png"/>
+                                        <img class="xmlid-229-C61RwL" src="/tengku_website/static/src/images/xmlid-229@2x.png"/>
+                                        <img class="xmlid-230-C61RwL" src="/tengku_website/static/src/images/xmlid-230@2x.png"/>
+                                        <img class="vector-QxM5SU" src="/tengku_website/static/src/images/vector-3@vx.png"/>
+                                        <img class="vector-2P4qUJ" src="/tengku_website/static/src/images/vector-4@vx.png"/>
+                                        <img class="vector-qr8e7q" src="/tengku_website/static/src/images/vector-5@vx.png"/>
+                                        <img class="vector-J1YQmd" src="/tengku_website/static/src/images/vector-6@vx.png"/>
+                                        <div class="lorem-ipsu-gna-aliqua-C61RwL font-class-1 border-class-1">
+                                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                          magna aliqua.
+                                        </div>
+                                        <div class="x-we-worked-with-C61RwL font-class-3 border-class-1">— WE WORKED WITH</div>
+                                        <div class="our-partners-C61RwL font-class-4 border-class-1">Our Partners</div>
+                                        <div class="create-account-C61RwL border-class-1">Create Account</div>
+                                        <div class="center-inf-rmation-33-C61RwL font-class-4 border-class-1">Center Information 3/3</div>
+                                        <div class="by-submitt-conditions-C61RwL border-class-1">
+                                          <span class="span1-PLx3Mx">By submitting your registraiton, you are agreeing to this site’s </span>
+                                            <span class="span2-PLx3Mx">Terms and Conditions</span>
+                                        </div>
+                                        <a href="/thankyou">
+                                          <div class="button-C61RwL">
+                                            <div class="ignore-me-also-xHxYv9">
+                                              <div class="rectangle-oKUHsQ"></div>
+                                            </div>
+                                            <div class="submit-xHxYv9 anima-valign-text-middle font-class-3 border-class-1">SUBMIT</div>
+                                          </div></a>
+                                        <div class="ignore-me-also-C61RwL">
+                                          <div class="rectangle-4aYLL0"></div>
+                                        </div>
+                                        <div class="cancel-C61RwL anima-valign-text-middle font-class-3 border-class-1">CANCEL</div>
+                                        <div class="back-C61RwL anima-valign-text-middle border-class-1">BACK</div>
+                                        <div class="i-am-not-a-robot-C61RwL font-class-2 border-class-1">
+                                            I am not a robot
+                                        </div>
+                                        <div class="ignore-me-also-VMr6Om">
+                                            <input class="form-check-input" type="checkbox" id="tick_check"/>
+<!--                                          <div class="rectangle-6xdCqt border-class-2"></div>-->
+                                        </div>
+                                        <img class="vector-a5WPlX" src="img/vector-7@2x.png"/>
+<!--                                        <div class="rectangle-VMr6Om border-class-2"></div>-->
+                                        <div class="your-name--is-account-C61RwL anima-valign-text-middle font-class-2 border-class-1">
+                                          <input type="text" placeholder="Your Name (Owner of this account )" name="account_name" id="account_name" required="required" style="width:250px;"/>
+                                        </div>
+
+<!--                                        <div class="rectangle-mzXdH9 border-class-2"></div>-->
+                                        <div class="email-C61RwL anima-valign-text-middle font-class-2 border-class-1">
+                                            <input type="text" placeholder="Email" name="email_id" id="email_id" required="required" style="width:250px;"/>
+                                        </div>
+<!--                                        <div class="rectangle-QxM5SU border-class-2"></div>-->
+                                        <div class="team-member-2-name-C61RwL anima-valign-text-middle font-class-2 border-class-1">
+                                          <input type="text" placeholder="Team Member 2 Name" name="member_name2" id="member_name2" required="required" style="width:250px;"/>
+                                        </div>
+<!--                                        <div class="rectangle-2P4qUJ border-class-2"></div>-->
+                                        <div class="email-VMr6Om anima-valign-text-middle font-class-2 border-class-1">
+                                            <input type="text" placeholder="Email" name="email_id1" id="email_id1" required="required" style="width:250px;"/>
+                                        </div>
+<!--                                        <div class="rectangle-qr8e7q border-class-2"></div>-->
+                                        <div class="team-member-3-name-C61RwL anima-valign-text-middle font-class-2 border-class-1">
+                                          <input type="text" placeholder="Team Member 3 Name" name="member_name3" id="member_name3" required="required" style="width:250px;"/>
+                                        </div>
+<!--                                        <div class="rectangle-J1YQmd border-class-2"></div>-->
+                                        <div class="email-mzXdH9 anima-valign-text-middle font-class-2 border-class-1">
+                                            <input type="text" placeholder="Email" name="email_id2" id="email_id2" required="required" style="width:250px;"/>
+                                        </div>
+                                        <div class="your-team--is-account-C61RwL border-class-1">
+                                          Your Team (You must at least register your email as the owner of this account)
+                                        </div>
+                                        <div class="allow-you--a-max-of-3-C61RwL font-class-1 border-class-1">
+                                          Allow you and other team members to be informed of latest developments on your projects
+                                          and conduct activities in your account
+
+                                            <br/>
+                                            Your and your team members will receive an invitation email
+                                          to create an account under your organization
+
+                                            <br/>
+                                            You are allowed a maximum of 3 accounts under the same
+                                          organization
+                                        </div>
+                                      </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </t>
+            </t>
+        </field>
+    </record>
+
+    <record id="create_account_page2" model="website.page">
+        <field name="url">/createaccount</field>
+        <field name="is_published">True</field>
+        <field name="view_id" ref="tengku_website.accountpage2"/>
+        <field name="track">True</field>
+    </record>
+
+</odoo>
