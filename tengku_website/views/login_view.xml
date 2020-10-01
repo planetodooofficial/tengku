@@ -45,8 +45,8 @@
                             <div class="rectangle-31">
                             </div>
                             <div class="icon-other-eye2">
-                                <img alt="Image/" anima-src="./img/vector@2x.png" class="vector0" src="/tengku_website/static/src/images/vector@2x.png"/>
-                                <img alt="Image/" anima-src="./img/vector-1@2x.png" class="vector1" src="/tengku_website/static/src/images/vector-1@2x.png"/>
+                                <img alt="Image/" class="vector0" src="/tengku_website/static/src/images/vector@2x.png"/>
+                                <img alt="Image/" class="vector1" src="/tengku_website/static/src/images/vector-1@2x.png"/>
                             </div>
                         </div>
 
@@ -98,7 +98,7 @@
                 <div class="col-8" style="margin-left: 530px; top: -600px;">
                     <img alt="Image/" class="bg0" src="/tengku_website/static/src/images/bg@1x.png"/>
                     <div class="undraw-feeling-proud-qne1-11">
-                        <img alt="Image/" class="vector0-1" src="/tengku_website/static/src/images/vector-2@2x.png"/>
+                        <img alt="Image/" class="vector0-15" src="/tengku_website/static/src/images/vector-2@2x.png"/>
                         <img alt="Image/" class="vector1-1" src="/tengku_website/static/src/images/vector-3@2x.png"/>
                         <img alt="Image/" class="vector2" src="/tengku_website/static/src/images/vector-4@2x.png"/>
                         <img alt="Image/" class="vector3" src="/tengku_website/static/src/images/vector-5@2x.png"/>
