@@ -37,6 +37,20 @@ class SignUpWebPage(http.Controller):
             'mobile': post.get('mobile'),
         })
 
+        value={'res_id': partner_search}
 
-        return request.render('tengku_website.accountpage', {'res_id': partner_search.id})
 
+        return request.render('tengku_website.accountpage', value)
+
+
+
+    @http.route('/create/create/user', type="http", auth="public", website=True)
+    def create_user(self, **post):
+
+        partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('res_id'))])
+
+        partner_search.update({
+
+        })
+
+        return request.render('tengku_website.accountpage', {})

@@ -87,7 +87,7 @@
                                         </div>
                                         <!--                                        <div class="rectangle57">-->
                                         <!--                                        </div>-->
-                                        <form role="form" action="create/webuser" method="POST" enctype="multipart/form-data">
+                                        <form role="form" action="/create/webuser" method="POST" enctype="multipart/form-data">
                                             <input type="hidden" name="csrf_token" t-att-value="request.csrf_token()"/>
                                             <div class="name58 anima-valign-text-middle">
                                                 <!--                                            <label class="control-label">First Name</label>-->
