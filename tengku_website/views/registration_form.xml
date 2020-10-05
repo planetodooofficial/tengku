@@ -63,29 +63,17 @@
 
 
                                             <div class="state1 anima-valign-text-middle">
-<!--                                                <input type="text" placeholder="State" name="shipping_addr_state" id="shipping_addr_state" required="required" style="width:490px;"/>-->
-                                                <select class="browser-default custom-select" placeholder="state" name="state" required="required" style="width:490px;">
-                                                    <option value=''>State</option>
-                                                    <option value="animal">Animal</option>
-                                                    <option value="arts_and_culture">Arts &amp; Culture</option>
-                                                    <option value="children">Children</option>
-                                                    <option value="diff_abled">Different Abled</option>
-                                                    <option value="edu_talent">Education &amp; Talent</option>
-                                                    <option value="emg_dist">Emergency &amp; Disaster</option>
-                                                    <option value="env">Enviornment</option>
-                                                    <option value="health">Health</option>
-                                                    <option value="sr_ctz">Senior Citizen</option>
-                                                    <option value="tax_exempt">Tax Exemption</option>
-                                                    <option value="women">Women</option>
-                                                    <option value="youth">Youth</option>
-                                                    <option value="others">Others</option>
+                                                <!--                                                <input type="text" placeholder="State" name="shipping_addr_state" id="shipping_addr_state" required="required" style="width:490px;"/>-->
+                                                <select class="browser-default custom-select state_select" name="shipping_address_state" id="shipping_address_state" onchange="onchange_shipping_state(this)" required="required" style="width:490px;">
+                                                    <option value="" selected="selected">State</option>
+
                                                 </select>
 
                                             </div>
 
-<!--                                            <div class="arrow-down2">-->
-<!--                                                <img alt="Image/" class="path0" src="/tengku_website/static/src/images/path@2x.png"/>-->
-<!--                                            </div>-->
+                                            <!--                                            <div class="arrow-down2">-->
+                                            <!--                                                <img alt="Image/" class="path0" src="/tengku_website/static/src/images/path@2x.png"/>-->
+                                            <!--                                            </div>-->
                                         </div>
                                         <div class="rectangle27">
                                         </div>
@@ -127,9 +115,9 @@
                                                 <!--                                            </div>-->
                                             </a>
                                             <div class="multiple-selection62 anima-valign-text-middle">
-<!--                                                <input type="text" placeholder="Multiple" name="type" required="required" style="width:490px;"/>-->
+                                                <!--                                                <input type="text" placeholder="Multiple" name="type" required="required" style="width:490px;"/>-->
                                                 <select class="browser-default custom-select" placeholder="Multiple" name="type" required="required" style="width:490px;">
-                                                    <option value=''>Multiple</option>
+                                                    <option value="" selected="selected">Multiple</option>
                                                     <option value="animal">Animal</option>
                                                     <option value="arts_and_culture">Arts &amp; Culture</option>
                                                     <option value="children">Children</option>
@@ -238,25 +226,13 @@
                                             <!--                                        <div class="rectangle96">-->
                                             <!--                                        </div>-->
                                             <div class="city97 anima-valign-text-middle">
-<!--                                                <input type="text" placeholder="City" name="register_address_city" id="register_address_city" required="required" style="width:490px;"/>-->
-<!--                                            </div>-->
-<!--                                            <div class="arrow-down98">-->
-<!--                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>-->
-                                                <select class="browser-default custom-select" placeholder="City" name="city" required="required" style="width:490px;">
-                                                    <option value=''>City</option>
-                                                    <option value="animal">Animal</option>
-                                                    <option value="arts_and_culture">Arts &amp; Culture</option>
-                                                    <option value="children">Children</option>
-                                                    <option value="diff_abled">Different Abled</option>
-                                                    <option value="edu_talent">Education &amp; Talent</option>
-                                                    <option value="emg_dist">Emergency &amp; Disaster</option>
-                                                    <option value="env">Enviornment</option>
-                                                    <option value="health">Health</option>
-                                                    <option value="sr_ctz">Senior Citizen</option>
-                                                    <option value="tax_exempt">Tax Exemption</option>
-                                                    <option value="women">Women</option>
-                                                    <option value="youth">Youth</option>
-                                                    <option value="others">Others</option>
+                                                <!--                                                <input type="text" placeholder="City" name="register_address_city" id="register_address_city" required="required" style="width:490px;"/>-->
+                                                <!--                                            </div>-->
+                                                <!--                                            <div class="arrow-down98">-->
+                                                <!--                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>-->
+                                                <select class="browser-default custom-select register_city_select" name="register_address_city" id="register_address_city" required="required" style="width:490px;">
+                                                    <option value="" selected="selected">City</option>
+
                                                 </select>
 
                                             </div>
@@ -266,28 +242,15 @@
                                             <!--                                        <div class="rectangle100">-->
                                             <!--                                        </div>-->
                                             <div class="state101 anima-valign-text-middle">
-<!--                                                <input type="text" placeholder="State" name="register_address_state" id="register_address_state" required="required" style="width:490px;"/>-->
-<!--                                            </div>-->
-<!--                                            <div class="arrow-down102">-->
-<!--                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>-->
-<!--                                            </div>-->
-<!--                                            <div class="multiple-selection61 anima-valign-text-middle">-->
-<!--                                                <input type="text" placeholder="Multiple" name="type" required="required" style="width:490px;"/>-->
-                                                <select class="browser-default custom-select" placeholder="State" name="state" required="required" style="width:490px;">
-                                                    <option value=''>State</option>
-                                                    <option value="animal">Animal</option>
-                                                    <option value="arts_and_culture">Arts &amp; Culture</option>
-                                                    <option value="children">Children</option>
-                                                    <option value="diff_abled">Different Abled</option>
-                                                    <option value="edu_talent">Education &amp; Talent</option>
-                                                    <option value="emg_dist">Emergency &amp; Disaster</option>
-                                                    <option value="env">Enviornment</option>
-                                                    <option value="health">Health</option>
-                                                    <option value="sr_ctz">Senior Citizen</option>
-                                                    <option value="tax_exempt">Tax Exemption</option>
-                                                    <option value="women">Women</option>
-                                                    <option value="youth">Youth</option>
-                                                    <option value="others">Others</option>
+                                                <!--                                                <input type="text" placeholder="State" name="register_address_state" id="register_address_state" required="required" style="width:490px;"/>-->
+                                                <!--                                            </div>-->
+                                                <!--                                            <div class="arrow-down102">-->
+                                                <!--                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>-->
+                                                <!--                                            </div>-->
+
+                                                <select class="browser-default custom-select state_select" id="register_address_state" name="register_address_state" onchange="onchange_register_state(this)" required="required" style="width:490px;">
+                                                    <option value="" selected="selected">State</option>
+
                                                 </select>
                                             </div>
 
@@ -343,28 +306,17 @@
                                             <!--                                        <div class="rectangle121">-->
                                             <!--                                        </div>-->
                                             <div class="city122 anima-valign-text-middle">
-<!--                                                <input type="text" placeholder="City" name="shipping_address_city" id="shipping_address_city" required="required" style="width:490px;"/>-->
-                                                <select class="browser-default custom-select" placeholder="City" name="city" required="required" style="width:490px;">
-                                                    <option value=''>City</option>
-                                                    <option value="animal">Animal</option>
-                                                    <option value="arts_and_culture">Arts &amp; Culture</option>
-                                                    <option value="children">Children</option>
-                                                    <option value="diff_abled">Different Abled</option>
-                                                    <option value="edu_talent">Education &amp; Talent</option>
-                                                    <option value="emg_dist">Emergency &amp; Disaster</option>
-                                                    <option value="env">Enviornment</option>
-                                                    <option value="health">Health</option>
-                                                    <option value="sr_ctz">Senior Citizen</option>
-                                                    <option value="tax_exempt">Tax Exemption</option>
-                                                    <option value="women">Women</option>
-                                                    <option value="youth">Youth</option>
-                                                    <option value="others">Others</option>
+                                                <!--                                                <input type="text" placeholder="City" name="shipping_address_city" id="shipping_address_city" required="required" style="width:490px;"/>-->
+                                                <select class="browser-default custom-select shipping_city_select" name="shipping_address_city" id="shipping_address_city" required="required" style="width:490px;">
+                                                    <option value="" selected="selected">City</option>
+
                                                 </select>
 
+
                                             </div>
-<!--                                            <div class="arrow-down123">-->
-<!--                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>-->
-<!--                                            </div>-->
+                                            <!--                                            <div class="arrow-down123">-->
+                                            <!--                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>-->
+                                            <!--                                            </div>-->
                                             <div class="city-124">
                                                 City *
                                             </div>
@@ -385,12 +337,12 @@
                                                     </div>
                                                 </div>
                                                 <div class="next1-1 anima-valign-text-middle">
-                                                        <button type="submit" onclick="submit_validation(this)">NEXT</button>
+                                                    <button type="submit" onclick="submit_validation(this)">NEXT</button>
                                                 </div>
                                             </div>
                                             <!--                                            </a>-->
                                             <div class="tick-here-if-it-is-the-same-as-registered-adderss130">
-                                                <input class="form-check-input" type="checkbox" id="address_check" onclick="copy_address(this)"/>
+                                                <input class="form-check-input" type="checkbox" id="address_check" name="address_check" onclick="copy_address(this)"/>
                                                 Tick here, if it is the same as Registered Adderss
                                             </div>
                                             <!--                                            <div class="ignore-me-also131">-->

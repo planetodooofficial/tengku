@@ -54,19 +54,26 @@
                                         </div>
                                         <div class="x-we-worked-with-C61RwL font-class-3 border-class-1">— WE WORKED WITH</div>
                                         <div class="our-partners-C61RwL font-class-4 border-class-1">Our Partners</div>
+
+
+                                          <form role="form" action="/create/partners" method="POST" enctype="multipart/form-data">
+                                            <input type="hidden" name="csrf_token" t-att-value="request.csrf_token()"/>
+
                                         <div class="create-account-C61RwL border-class-1">Create Account</div>
                                         <div class="center-inf-rmation-33-C61RwL font-class-4 border-class-1">Center Information 3/3</div>
                                         <div class="by-submitt-conditions-C61RwL border-class-1">
                                           <span class="span1-PLx3Mx">By submitting your registraiton, you are agreeing to this site’s </span>
                                             <span class="span2-PLx3Mx">Terms and Conditions</span>
                                         </div>
-                                        <a href="/thankyou">
+
                                           <div class="button-C61RwL">
                                             <div class="ignore-me-also-xHxYv9">
                                               <div class="rectangle-oKUHsQ"></div>
                                             </div>
-                                            <div class="submit-xHxYv9 anima-valign-text-middle font-class-3 border-class-1">SUBMIT</div>
-                                          </div></a>
+                                            <div class="submit-xHxYv9 anima-valign-text-middle font-class-3 border-class-1">
+                                                <button type="submit">SUBMIT</button>
+                                            </div>
+                                          </div>
                                         <div class="ignore-me-also-C61RwL">
                                           <div class="rectangle-4aYLL0"></div>
                                         </div>
@@ -82,12 +89,12 @@
                                         <img class="vector-a5WPlX" src="img/vector-7@2x.png"/>
 <!--                                        <div class="rectangle-VMr6Om border-class-2"></div>-->
                                         <div class="your-name--is-account-C61RwL anima-valign-text-middle font-class-2 border-class-1">
-                                          <input type="text" placeholder="Your Name (Owner of this account )" name="account_name" id="account_name" required="required" style="width:250px;"/>
+                                          <input type="text" placeholder="Your Name (Owner of this account )" name="member_name1" id="member_name1" required="required" style="width:250px;"/>
                                         </div>
 
 <!--                                        <div class="rectangle-mzXdH9 border-class-2"></div>-->
                                         <div class="email-C61RwL anima-valign-text-middle font-class-2 border-class-1">
-                                            <input type="text" placeholder="Email" name="email_id" id="email_id" required="required" style="width:250px;"/>
+                                            <input type="text" placeholder="Email" name="email_id1" id="email_id1" required="required" style="width:250px;"/>
                                         </div>
 <!--                                        <div class="rectangle-QxM5SU border-class-2"></div>-->
                                         <div class="team-member-2-name-C61RwL anima-valign-text-middle font-class-2 border-class-1">
@@ -95,7 +102,7 @@
                                         </div>
 <!--                                        <div class="rectangle-2P4qUJ border-class-2"></div>-->
                                         <div class="email-VMr6Om anima-valign-text-middle font-class-2 border-class-1">
-                                            <input type="text" placeholder="Email" name="email_id1" id="email_id1" required="required" style="width:250px;"/>
+                                            <input type="text" placeholder="Email" name="email_id2" id="email_id2" required="required" style="width:250px;"/>
                                         </div>
 <!--                                        <div class="rectangle-qr8e7q border-class-2"></div>-->
                                         <div class="team-member-3-name-C61RwL anima-valign-text-middle font-class-2 border-class-1">
@@ -103,7 +110,7 @@
                                         </div>
 <!--                                        <div class="rectangle-J1YQmd border-class-2"></div>-->
                                         <div class="email-mzXdH9 anima-valign-text-middle font-class-2 border-class-1">
-                                            <input type="text" placeholder="Email" name="email_id2" id="email_id2" required="required" style="width:250px;"/>
+                                            <input type="text" placeholder="Email" name="email_id3" id="email_id3" required="required" style="width:250px;"/>
                                         </div>
                                         <div class="your-team--is-account-C61RwL border-class-1">
                                           Your Team (You must at least register your email as the owner of this account)
@@ -120,6 +127,10 @@
                                             You are allowed a maximum of 3 accounts under the same
                                           organization
                                         </div>
+                                              <input type = "hidden" name="res_id" id="res_id" t-att-value = "res_id.id" />
+
+                                          </form>
+
                                       </div>
                                 </div>
                             </div>

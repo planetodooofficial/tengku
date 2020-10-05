@@ -23,9 +23,32 @@
                     <field name="center_type"/>
                 </xpath>
 
-                <xpath expr="//field[@name='country_id']" position="after">
+                <xpath expr="//field[@name='vat']" position="after">
                     <field name="gps_coordinates"/>
                 </xpath>
+
+                <xpath expr="/form/sheet/notebook//page[@name='internal_notes']" position="after">
+                    <page name="org_details" string="Organization Details">
+                        <group>
+                            <group>
+                                <field name="website_url"/>
+                                <field name="twitter_url"/>
+                                <field name="fb_url"/>
+                                <field name="insta_url"/>
+                            </group>
+                            <group>
+                                <field name="bank_acc"/>
+                                <field name="bank_acc_name"/>
+                            </group>
+                        </group>
+                    </page>
+                </xpath>
+
+                <xpath expr="//field[@name='country_id']" position="after">
+                    <field name="city_id" context="{'sate_id': state_id}"/>
+                </xpath>
+
+
             </field>
         </record>
     </data>

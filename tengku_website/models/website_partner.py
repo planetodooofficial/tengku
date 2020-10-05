@@ -15,9 +15,15 @@ class TengkuWebsiteInherit(models.Model):
                                     ('others', 'Others')], string="Type")
     gps_coordinates = fields.Integer("GPS Co-Ordinates")
 
+    city_id = fields.Many2one('res.city', 'City')
+
+    website_url = fields.Char('Website Link')
     twitter_url = fields.Char('Twitter Link')
     fb_url = fields.Char('Facebook Link')
     insta_url = fields.Char('Instagram Link')
 
     bank_acc = fields.Char("Bank Account")
     bank_acc_name = fields.Char("Bank Name")
+
+    is_merchant = fields.Boolean("Is Merchant")
+    is_organization = fields.Boolean("Is Organization")

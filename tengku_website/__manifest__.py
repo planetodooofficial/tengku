@@ -12,8 +12,7 @@
     'images': [],
     'depends': ['base', 'web', 'website'],
     'data': [
-        # 'security/security.xml',
-        # 'security/ir.model.access.csv',
+        'security/ir.model.access.csv',
         'views/login_view.xml',
         'views/resources_assets.xml',
         # 'views/sign_up_view.xml',
@@ -24,6 +23,7 @@
         'views/account_page.xml',
         'views/tengku_partner.xml',
         'views/account_page2.xml',
+        'views/res_city_view.xml',
 
     ],
     'demo': [
