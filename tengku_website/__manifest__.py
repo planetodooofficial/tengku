@@ -21,7 +21,7 @@
         'views/thank_you_page1.xml',
         'views/thank_you_page2.xml',
         'views/account_page.xml',
-        # 'views/tengku_partner.xml',
+        'views/tengku_partner.xml',
         'views/account_page2.xml',
         'views/res_city_view.xml',
         'views/multiple_selection.xml',
