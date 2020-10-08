@@ -122,7 +122,7 @@
                                             <!--                                        </a>-->
                                             <!--                                        <img alt="Image/" class="ellipse69" src="/tengku_website/static/src/images/vector@2x.png"/>-->
                                             <div class="no71 anima-valign-text-middle">
-                                                <input class="form-check-input radio-no" type="radio" name="tax_radio" id="tax_no" value="yes"/> No
+                                                <input class="form-check-input radio-no" type="radio" name="tax_radio" id="tax_no" value="no"/> No
                                             </div>
                                             <!--                                        <div class="ignore-me-also72">-->
                                             <!--                                            <input type="radio"/>-->
@@ -192,7 +192,12 @@
                                             </div>
                                             <div class="icon-contact-attach92">
                                                 <img alt="Image/" class="vector0-1" src="/tengku_website/static/src/images/vector-68@2x.png"/>
-                                                <img alt="Image/" class="vector1-10" src="/tengku_website/static/src/images/vector@2x.png"/>
+                                                <img alt="Image/" class="vector1-10" src="/tengku_website/static/src/images/vector@2x.png">
+                                                    <input type="file" name="registration_attachment" class="file" multiple="true"
+                                                           data-show-upload="true"
+                                                           data-show-caption="true" lass="file"
+                                                           data-show-preview="true"/>
+                                                </img>
                                             </div>
                                             <div class="max-size-500kb93">
                                                 Max Size - 500Kb
@@ -206,7 +211,12 @@
                                             </div>
                                             <div class="icon-contact-attach97">
                                                 <img alt="Image/"  class="vector0-1" src="/tengku_website/static/src/images/vector-68@2x.png"/>
-                                                <img alt="Image/"  class="vector1-10" src="/tengku_website/static/src/images/vector@2x.png"/>
+                                                <img alt="Image/"  class="vector1-10" src="/tengku_website/static/src/images/vector@2x.png">
+                                                        <input type="file" name="bank_st_front_pg_attachment" class="file" multiple="true"
+                                                           data-show-upload="true"
+                                                           data-show-caption="true" lass="file"
+                                                           data-show-preview="true"/>
+                                                </img>
                                             </div>
                                             <div class="please-submit-only-the-front-page-indicating-your-registered-organization-name-and-account-number-98">
                                                 Please submit only the front page indicating your registered organization name and account number

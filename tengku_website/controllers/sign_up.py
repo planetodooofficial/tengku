@@ -1,6 +1,8 @@
 from odoo import http
 from odoo.http import request
 import json
+import base64
+
 
 class SignUpWebPage(http.Controller):
 
@@ -8,15 +10,48 @@ class SignUpWebPage(http.Controller):
     # def signup(self, **kw):
     #     return http.request.render('tengku_website.create_page', {})
 
+    @http.route('/vendor_type', type="http", auth="public", website=True)
+    def def_vendor_type(self, **post):
+        print(post)
+
+        value= {'vendor_type': post.get('vendor_selection')}
+
+        if post.get('vendor_selection') == 'center':
+
+            return request.render('tengku_website.registration', value)
+
+
+
+
     @http.route('/create/webuser', type="http", auth="public", website=True)
     def create_webuser(self, **post):
         print("Data Received.....", post)
         # request.env['res.users'].sudo().create(kw)
-        user_val = {
-            'name': post.get('org_name'),
-            'login': post.get('email'),
-        }
-        request.env['res.users'].sudo().create(user_val)
+
+        if post.get('attachment', False):
+            self.attachment_ = request.env['ir.attachment']
+            Attachments = self.attachment_
+            name = post.get('attachment').filename
+            file = post.get('attachment')
+            attachment = file.read()
+
+            user_val = {
+                'name': post.get('org_name'),
+                'login': post.get('email'),
+                'image_1920': base64.standard_b64encode(attachment),
+            }
+
+            request.env['res.users'].sudo().create(user_val)
+
+        else:
+
+            user_val = {
+                'name': post.get('org_name'),
+                'login': post.get('email'),
+            }
+
+            request.env['res.users'].sudo().create(user_val)
+
 
         partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('org_name'))])
 
@@ -26,7 +61,7 @@ class SignUpWebPage(http.Controller):
             'email': post.get('email'),
             'street': post.get('register_address_line1'),
             'street2': post.get('register_address_line2'),
-            'city_id': post.get('register_address_city'),
+            # 'city_id': post.get('register_address_city'),
             'state_id': post.get('register_address_state'),
             'country_id': 157,
             'zip': post.get('register_address_pin_code'),
@@ -39,22 +74,23 @@ class SignUpWebPage(http.Controller):
         })
 
 
-        ship_vals = {
-            'type': 'delivery',
-            'name': post.get('org_name')+ 'Shipping Address',
-            'street': post.get('shipping_address_line1'),
-            'street2': post.get('shipping_address_line2'),
-            'city_id': post.get('shipping_address_city'),
-            'state_id': post.get('shipping_address_state'),
-            'country_id': 157,
-            'zip': post.get('shipping_address_pin_code'),
-            'parent_id': partner_search.id,
 
-        }
-
-
-
-        ship_addr_obj= request.env['res.users'].sudo().create(ship_vals)
+        # ship_vals = {
+        #     'type': 'delivery',
+        #     'name': post.get('org_name')+ 'Shipping Address',
+        #     'street': post.get('shipping_address_line1'),
+        #     'street2': post.get('shipping_address_line2'),
+        #     'city_id': post.get('shipping_address_city'),
+        #     'state_id': post.get('shipping_address_state'),
+        #     'country_id': 157,
+        #     'zip': post.get('shipping_address_pin_code'),
+        #     'parent_id': partner_search.id,
+        #
+        # }
+        #
+        #
+        #
+        # ship_addr_obj= request.env['res.users'].sudo().create(ship_vals)
 
 
         value={'res_id': partner_search}
@@ -78,6 +114,50 @@ class SignUpWebPage(http.Controller):
             'insta_url': post.get('insta_domain'),
 
         })
+
+        if post.get('registration_attachment', False):
+            self.attachment_ = request.env['ir.attachment']
+            Attachments = self.attachment_
+            name = post.get('attachment').filename
+            file = post.get('attachment')
+            attachment = file.read()
+            attachment_id = Attachments.sudo().create({
+                'name': name,
+                'display_name': name,
+                'res_name': name,
+                'type': 'binary',
+                'res_model': 'res.partner',
+                'res_id': partner_search.id,
+                # 'datas': attachment.encode('base64'),
+                'datas': base64.standard_b64encode(attachment)
+            })
+
+            partner_search.update({
+                'registration_acth': base64.standard_b64encode(attachment),
+                'file_name': name,
+            })
+
+
+        if post.get('bank_st_front_pg_attachment', False):
+            self.attachment_ = request.env['ir.attachment']
+            Attachments = self.attachment_
+            name = post.get('attachment').filename
+            file = post.get('attachment')
+            attachment = file.read()
+            attachment_id = Attachments.sudo().create({
+                'name': name,
+                'display_name': name,
+                'res_name': name,
+                'type': 'binary',
+                'res_model': 'res.partner',
+                'res_id': partner_search.id,
+                # 'datas': attachment.encode('base64'),
+                'datas': base64.standard_b64encode(attachment)
+            })
+
+            partner_search.update({
+                'front_page_bank_st': base64.standard_b64encode(attachment),
+            })
 
         value = {'res_id': partner_search}
 

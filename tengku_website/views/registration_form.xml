@@ -104,6 +104,9 @@
                                                 <input type="text" placeholder="Name" name="org_name" required="required" style="width:490px;"/>
                                             </div>
 
+
+                                            <input type = "hidden" name="vendor_selection" id="vendor_selection" t-att-value = "vendor_selection" />
+
                                             <div class="organization-name-please-follow-as-per-registration-59">
                                                 Organization Name * (Please follow as per registration)
                                             </div>
@@ -230,7 +233,7 @@
                                                 <!--                                            </div>-->
                                                 <!--                                            <div class="arrow-down98">-->
                                                 <!--                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>-->
-                                                <select class="browser-default custom-select register_city_select" name="register_address_city" id="register_address_city" required="required" style="width:490px;">
+                                                <select class="browser-default custom-select register_city_select" name="register_address_city" id="register_address_city" style="width:490px;">
                                                     <option value="" selected="selected">City</option>
 
                                                 </select>
@@ -307,7 +310,7 @@
                                             <!--                                        </div>-->
                                             <div class="city122 anima-valign-text-middle">
                                                 <!--                                                <input type="text" placeholder="City" name="shipping_address_city" id="shipping_address_city" required="required" style="width:490px;"/>-->
-                                                <select class="browser-default custom-select shipping_city_select" name="shipping_address_city" id="shipping_address_city" required="required" style="width:490px;">
+                                                <select class="browser-default custom-select shipping_city_select" name="shipping_address_city" id="shipping_address_city"  style="width:490px;">
                                                     <option value="" selected="selected">City</option>
 
                                                 </select>
@@ -371,7 +374,10 @@
                                             </div>
                                             <div class="icon-contact-insert145">
                                                 <img alt="Image/" class="vector0-1" src="/tengku_website/static/src/images/vector@2x.png"/>
-                                                <img alt="Image/" class="vector1-10" src="/tengku_website/static/src/images/vector-57@2x.png"/>
+                                                <img alt="Image/" class="vector1-10" src="/tengku_website/static/src/images/vector-57@2x.png"><input type="file" name="attachment" class="file" multiple="true"
+                                                           data-show-upload="true"
+                                                           data-show-caption="true" lass="file"
+                                                           data-show-preview="true"/></img>
                                             </div>
                                         </form>
                                     </div>

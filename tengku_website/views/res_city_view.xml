@@ -27,7 +27,7 @@
         </field>
     </record>
 
-    <menuitem id="res_city_menu" name="City" action="res_city_action" parent="contacts.menu_country_state_partner"/>
+    <menuitem id="res_city_menu" name="City" action="res_city_action" parent="contacts.menu_localisation"/>
 
 
 
