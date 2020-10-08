@@ -225,11 +225,39 @@
                                                 Front page of bank statement *
                                             </div>
                                             <div class="rectangle101">
-                                                <input type="text" required="required" name="bank_name" id="bank_name" style="width:368px; height:47px;"/>
+<!--                                              <input type="text" required="required" name="bank_name" id="bank_name" style="width:368px; height:47px;"/>-->
+                                                <select class="mdb-select md-form" name="bank_name" id="bank_name" required="required" style="width:368px; height:47px;">
+<!--                                                           <option value="" selected="selected">Multiple</option>&ndash;&gt;-->
+
+                                                    <option value="abb">Affin Bank Berhad</option>
+                                                    <option value="abmb">Alliance Bank Malaysia Berhad</option>
+                                                    <option value="ab">AmBank (M) Berhad</option>
+                                                    <option value="bbb">Bangkok Bank Berhad</option>
+                                                    <option value="bamb">Bank of America Malaysia Berhad</option>
+                                                    <option value="bcb">Bank of China (Malaysia) Berhad</option>
+                                                    <option value="btmu">Bank of Tokyo-Mitsubishi UFJ (Malaysia) Berhad</option>
+                                                    <option value="cbb">CIMB Bank Berhad</option>
+                                                    <option value="cb">Citibank Berhad</option>
+                                                    <option value="dbb">Deutsche Bank (Malaysia) Berhad</option>
+                                                    <option value="ebb">EON Bank Berhad</option>
+                                                    <option value="hlbb">Hong Leong Bank Berhad</option>
+                                                    <option value="hbmb">HSBC Bank Malaysia Berhad</option>
+                                                    <option value="icbc">Industrial and Commercial Bank of China (Malaysia) Berhad</option>
+                                                    <option value="jp">J.P. Morgan Chase Bank Berhad</option>
+                                                    <option value="mbb">Malayan Banking Berhad</option>
+                                                    <option value="obb">OCBC Bank (Malaysia) Berhad</option>
+                                                    <option value="pbb">Public Bank Berhad</option>
+                                                    <option value="rbb">RHB Bank Berhad</option>
+                                                    <option value="scbmb">Standard Chartered Bank Malaysia Berhad</option>
+                                                    <option value="smbcmb">Sumitomo Mitsui Banking Corporation Malaysia Berhad</option>
+                                                    <option value="bns">The Bank of Nova Scotia Berhad</option>
+                                                    <option value="rbs">The Royal Bank of Scotland Berhad</option>
+                                                    <option value="uob">United Overseas Bank (Malaysia) Bhd</option>
+                                                </select>
                                             </div>
-                                            <div class="arrow-down102-1">
-                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>
-                                            </div>
+<!--                                            <div class="arrow-down102-1">-->
+<!--                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-2@2x.png"/>-->
+<!--                                            </div>-->
                                             <div class="name-of-bank-103">
                                                 Name of Bank *
                                                 <input type = "hidden" name="res_id" id="res_id" t-att-value = "res_id.id" />
@@ -237,6 +265,23 @@
 
                                             <div class="anima-overlay" id="overlay-component-1" style="min-height:2091px; position:fixed;">
 
+                                            </div>
+<!--                                            <div class="ignore-me-also-HlKRTo">-->
+<!--                                                <div class="rectangle-baIT7p border-class-2"></div>-->
+<!--                                            </div>-->
+                                            <div class="component-2-C61RwL">
+                                              <div class="ignore-me-also-esxmfg">
+<!--                                                <div class="rectangle-dSux4Q border-class-2"></div>-->
+                                                  <input type="text" placeholder="doc.pdf" required="required"/>
+                                              </div>
+                                              <div class="icon-contact-attach-esxmfg">
+                                                  <input class="form-check-input" type="radio" id="yes" name="yes" onclick="copy_address(this)"/>
+                                                <img class="vector-Uo7fzt" src="/tengku_website/static/src/images/vector-7@2ax.png"/>
+                                                <img class="vector-N73yyq" src="/tengku_website/static/src/images/vector-1@2ax.png"/>
+                                              </div>
+                                              <div class="please-sub-nance-lhdn-esxmfg font-class-1 border-class-1">
+                                                Please submit your tax exemption letter from the Ministry of Finance/ LHDN
+                                              </div>
                                             </div>
                                         </form>
                                     </div>

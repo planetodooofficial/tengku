@@ -24,6 +24,7 @@
         'views/tengku_partner.xml',
         'views/account_page2.xml',
         'views/res_city_view.xml',
+        'views/multiple_selection.xml',
 
     ],
     'demo': [

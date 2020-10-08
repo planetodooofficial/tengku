@@ -1,0 +1,34 @@
+<odoo>
+<data>
+    <!--tree view-->
+    <record id="type_form" model="ir.ui.view">
+        <field name="name">type.form</field>
+        <field name="model">type.org.multi.select</field>
+        <field name="arch" type="xml">
+                <form string="Multiple Selection">
+                    <group col="4">
+                        <field name="type_name"/>
+
+                    </group>
+                </form>
+        </field>
+    </record>
+
+
+    <!--Action Window-->
+
+    <record id="type_action" model="ir.actions.act_window">
+        <field name="name">Multiple</field>
+        <field name="res_model">type.org.multi.select</field>
+        <field name="view_mode">form</field>
+        <field name="help" type="html">
+            <p class="oe_view_non_content_create">
+                Please enter City Records!</p>
+        </field>
+    </record>
+
+<!--    <menuitem id="res_city_menu" name="City" action="res_city_action" parent="contacts.menu_country_state_partner"/>-->
+
+</data>
+
+</odoo>

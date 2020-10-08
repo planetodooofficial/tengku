@@ -9,6 +9,7 @@
                     <div class="oe_structure">
                         <div class="container">
                             <div id="wrap">
+                                <link href="/tengku_website/static/src/css/group-26.css" rel="stylesheet" type="text/css"/>
                                 <div class="create-acccunt-web-desktop-charity-6 anima-word-break " style="margin-left: -85px;">
                                     <div style="width: 1360px; height: 100%; position:relative; margin:auto;">
                                         <div class="contacts2">
@@ -97,7 +98,7 @@
                                         </div>
                                         <!--                                        <div class="rectangle57">-->
                                         <!--                                        </div>-->
-                                        <form role="form" action="/create/webuser" method="POST" enctype="multipart/form-data">
+                                        <form role="form" action="create/webuser" method="POST" enctype="multipart/form-data">
                                             <input type="hidden" name="csrf_token" t-att-value="request.csrf_token()"/>
                                             <div class="name58 anima-valign-text-middle">
                                                 <!--                                            <label class="control-label">First Name</label>-->
@@ -117,10 +118,12 @@
                                                 <!--                                                <img alt="Image/" class="path0-1" src="/tengku_website/static/src/images/path-1@2x.png"/>-->
                                                 <!--                                            </div>-->
                                             </a>
-                                            <div class="multiple-selection62 anima-valign-text-middle">
-                                                <!--                                                <input type="text" placeholder="Multiple" name="type" required="required" style="width:490px;"/>-->
-                                                <select class="browser-default custom-select" placeholder="Multiple" name="type" required="required" style="width:490px;">
-                                                    <option value="" selected="selected">Multiple</option>
+<!--                                            <div class="multiple-selection62 anima-valign-text-middle">-->
+<!--                                                <input type="checkbox" placeholder="Multiple" name="type" required="required" style="width:490px;">-->
+<!--                                                <select multiple="multiple" class="browser-default custom-select" placeholder="Multiple" name="type" id="type" required="required" style="width:490px;">-->
+                                                    <select class="mdb-select md-form" multiple="multiple" name="type" id="type" required="required" style="bottom:1488px; position:absolute; margin-left:140px; width:490px; height:56px">
+<!--                                                           <option value="" selected="selected">Multiple</option>&ndash;&gt;-->
+
                                                     <option value="animal">Animal</option>
                                                     <option value="arts_and_culture">Arts &amp; Culture</option>
                                                     <option value="children">Children</option>
@@ -134,8 +137,18 @@
                                                     <option value="women">Women</option>
                                                     <option value="youth">Youth</option>
                                                     <option value="others">Others</option>
+
                                                 </select>
-                                            </div>
+
+<!--                                                <button class="btn-save btn btn-primary btn-sm" style="-->
+<!--                                                          top: 570px;-->
+<!--                                                            position: absolute;-->
+<!--                                                            margin-left: 300px;-->
+<!--                                                        ">Save</button>-->
+
+<!--                                            </div>-->
+
+
                                             <div class="type-63">
                                                 Type *
                                             </div>
@@ -310,7 +323,9 @@
                                             <!--                                        </div>-->
                                             <div class="city122 anima-valign-text-middle">
                                                 <!--                                                <input type="text" placeholder="City" name="shipping_address_city" id="shipping_address_city" required="required" style="width:490px;"/>-->
-                                                <select class="browser-default custom-select shipping_city_select" name="shipping_address_city" id="shipping_address_city"  style="width:490px;">
+
+                                                <select class="browser-default custom-select shipping_city_select" name="shipping_address_city" id="shipping_address_city" onchange="onchange_register_city(this)" style="width:490px;">
+
                                                     <option value="" selected="selected">City</option>
 
                                                 </select>
@@ -332,7 +347,7 @@
                                             <div class="back127 anima-valign-text-middle">
                                                 BACK
                                             </div>
-                                            <!--                                            <a href="/create/webuser">-->
+<!--                                            <a href="/thankyou">-->
                                             <div class="button128">
                                                 <div class="ignore-me-also0-1">
                                                     <div class="rectangle0-1">
@@ -343,7 +358,7 @@
                                                     <button type="submit" onclick="submit_validation(this)">NEXT</button>
                                                 </div>
                                             </div>
-                                            <!--                                            </a>-->
+<!--                                            </a>-->
                                             <div class="tick-here-if-it-is-the-same-as-registered-adderss130">
                                                 <input class="form-check-input" type="checkbox" id="address_check" name="address_check" onclick="copy_address(this)"/>
                                                 Tick here, if it is the same as Registered Adderss
@@ -379,12 +394,29 @@
                                                            data-show-caption="true" lass="file"
                                                            data-show-preview="true"/></img>
                                             </div>
+                                            <div class="create-account-C61RwL font-class-7 border-class-1">Create Account</div>
+                                            <div class="center-inf-rmation-13-C61RwL font-class-5 border-class-1">Center Information 1/3</div>
+                                            <div class="please-ref-gistration-C61RwL font-class-9 border-class-1">
+                                                <span class="span1-gNJypx">Please refer to our </span>
+                                                <span class="span2-gNJypx">Terms and Conditions</span>
+                                                <span class="span3-gNJypx"> for eligibility for registration </span>
+                                            </div>
                                         </form>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <script>
+                    $(document).ready(function() {
+                    $('.mdb-select').group-26({
+                        placeholder:"Select Multiple",
+                        tags:true,
+                        tokenSeparators: ['/',',',','," "]
+                    });
+                        })
+                    </script>
+
                 </t>
             </t>
         </field>

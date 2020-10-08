@@ -55,12 +55,16 @@ class SignUpWebPage(http.Controller):
 
         partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('org_name'))])
 
-        partner_search.update({
+        partner_search.sudo().update({
             'org_nick_name': post.get('org_nick_name'),
             'company_type': 'company',
             'email': post.get('email'),
             'street': post.get('register_address_line1'),
             'street2': post.get('register_address_line2'),
+
+            'center_type': post.get('type'),
+            # 'types': post.get('type'),
+
             # 'city_id': post.get('register_address_city'),
             'state_id': post.get('register_address_state'),
             'country_id': 157,
@@ -70,8 +74,22 @@ class SignUpWebPage(http.Controller):
             'description': post.get('descp'),
             'phone': post.get('phone'),
             'mobile': post.get('mobile'),
-            'supplier_rank': 1,
+            # 'supplier_rank': 1,
         })
+
+        # partner_search.child_ids.sudo().update({
+        #      'type': 'delivery',
+        #     # 'search_default_type': 'delivery',
+        #      'name': post.get('org_name')+ 'Shipping Address',
+        #      'street': post.get('shipping_address_line1'),
+        #      'street2': post.get('shipping_address_line2'),
+        #      # 'city_id': post.get('shipping_address_city'),
+        #      'state_id': post.get('shipping_address_state'),
+        #      'country_id': 157,
+        #      'zip': post.get('shipping_address_pin_code'),
+        #      'parent_id': partner_search.id,
+        #
+        #     })
 
 
 
@@ -92,8 +110,10 @@ class SignUpWebPage(http.Controller):
         #
         # ship_addr_obj= request.env['res.users'].sudo().create(ship_vals)
 
+        # ship_addr_obj = request.env['res.users'].sudo().create(ship_vals)
 
-        value={'res_id': partner_search}
+
+        value = {'res_id': partner_search}
 
 
         return request.render('tengku_website.accountpage', value)
@@ -105,10 +125,10 @@ class SignUpWebPage(http.Controller):
 
         partner_search = http.request.env['res.partner'].sudo().search([('id', '=', post.get('res_id'))])
 
-        partner_search.update({
+        partner_search.sudo().update({
             'bank_acc_name': post.get('bank_name'),
-            # 'bank_acc': post.get('bank_name'),
-            'website_url': post.get('website_domain'),
+            'bank_acc': post.get('acc_no'),
+            'website': post.get('website_domain'),
             'twitter_url': post.get('twitter_domain'),
             'fb_url': post.get('fb_domain'),
             'insta_url': post.get('insta_domain'),
@@ -179,7 +199,47 @@ class SignUpWebPage(http.Controller):
 
         partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('member_name1'))])
 
-        partner_search.update({
+        partner_search.sudo().update({
+            'type': 'delivery',
+            'company_type': 'person',
+            # 'name': post.get('org_name') + Shipping Address,
+            'street': post.get('shipping_address_line1'),
+            'street2': post.get('shipping_address_line2'),
+            # 'city_id': post.get('shipping_address_city'),
+            'state_id': post.get('shipping_address_state'),
+            'country_id': 157,
+            'email': post.get('email_id1'),
+            'zip': post.get('shipping_address_pin_code'),
+
+            'parent_id': main_partner_search.id,
+        })
+
+        user_val = {
+            'name': post.get('member_name2'),
+            'login': post.get('email_id2'),
+        }
+
+        request.env['res.users'].sudo().create(user_val)
+
+        partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('member_name2'))])
+
+        partner_search.sudo().update({
+            'type': 'delivery',
+            'company_type': 'person',
+            'parent_id': main_partner_search.id,
+        })
+
+        user_val = {
+            'name': post.get('member_name3'),
+            'login': post.get('email_id3'),
+        }
+
+        request.env['res.users'].sudo().create(user_val)
+
+        partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('member_name3'))])
+
+        partner_search.sudo().update({
+            'type': 'delivery',
             'company_type': 'person',
             'parent_id': main_partner_search.id,
         })
@@ -188,10 +248,6 @@ class SignUpWebPage(http.Controller):
 
 
         return request.render('tengku_website.thankyou', {})
-
-
-
-
 
 
     @http.route('/get_state', auth='public', type='http', website=True, methods=['POST'], csrf=False)
@@ -212,7 +268,7 @@ class SignUpWebPage(http.Controller):
     def get_city_func(self, state, **kw):
         city_list = []
         if state:
-            city_ids = request.env['res.city'].search([('state_id', '=', int(state))])
+            city_ids = request.env['res.city'].sudo().search([('state_id', '=', int(state))])
             for city in city_ids:
                 city_list.append({'id': city.id, 'value': city.name})
         return json.dumps(city_list)
