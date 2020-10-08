@@ -10,7 +10,7 @@
     'category': 'Client',
     'website': 'https://www.odoo.com/page/billing',
     'images': [],
-    'depends': ['base', 'web', 'website'],
+    'depends': ['base', 'web', 'website', 'contacts'],
     'data': [
         'security/ir.model.access.csv',
         'views/login_view.xml',
