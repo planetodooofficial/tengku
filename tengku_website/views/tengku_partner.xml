@@ -19,6 +19,11 @@
                     <field name="description"/>
                 </xpath>
 
+                <xpath expr="//field[@name='description']" position="after">
+                    <field name="types" widget="many2many_tags"/>
+                </xpath>
+
+
                 <xpath expr="//field[@name='vat']" position="after">
                     <field name="center_type"/>
                 </xpath>
@@ -31,7 +36,7 @@
                     <page name="org_details" string="Organization Details">
                         <group>
                             <group>
-                                <field name="website_url"/>
+<!--                                <field name="website_url"/>-->
                                 <field name="twitter_url"/>
                                 <field name="fb_url"/>
                                 <field name="insta_url"/>

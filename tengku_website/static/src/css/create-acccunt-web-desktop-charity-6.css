@@ -9,6 +9,11 @@
   width               : 100%;
   height              : 100%;
 }
+.border-class-1 {
+  border-color:rgba(255,255,255,0);
+  border-style:solid;
+  border-width:1px;
+}
 .create-acccunt-web-desktop-charity-6 {
   width               : 100%;
   min-width           : 1360px;
@@ -75,6 +80,82 @@ div {
   text-align          : center;
   line-height         : 28.0px;
 }
+.create-account-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:121px;
+  position:absolute;
+  text-align:left;
+  top:145px;
+  width:652px;
+}
+.font-class-7 {
+  color:var(--log-cabin);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:60.0px;
+  font-style:normal;
+  font-weight:700;
+  letter-spacing:-1.00px;
+  line-height:70.0px;
+}
+.create-acccunt-web-desktop-charity-6 .center-inf-rmation-13-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:121px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:253px;
+  white-space:nowrap;
+  width:584px;
+}
+.font-class-5 {
+  color:var(--log-cabin);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:40.0px;
+  font-style:normal;
+  font-weight:600;
+  letter-spacing:-1.00px;
+  line-height:50.0px;
+}
+.please-ref-gistration-C61RwL {
+  background-color:rgba(255,255,255,0);
+  color:rgba(255,255,255,0);
+  font-size:18.0px;
+  height:auto;
+  left:536px;
+  line-height:28.0px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:248px;
+  width:392px;
+}
+.font-class-9 {
+  font-family:"Fira Sans", Helvetica, Arial, serif;
+}
+.span1-gNJypx {
+  color:rgba(34,34,34,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.00px;
+}
+.span2-gNJypx {
+  color:rgba(45,156,219,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.00px;
+}
+.span3-gNJypx {
+  color:rgba(34,34,34,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.00px;
+}
+
 .explore4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 57px;
