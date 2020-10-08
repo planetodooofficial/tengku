@@ -138,8 +138,8 @@ class SignUpWebPage(http.Controller):
         if post.get('registration_attachment', False):
             self.attachment_ = request.env['ir.attachment']
             Attachments = self.attachment_
-            name = post.get('attachment').filename
-            file = post.get('attachment')
+            name = post.get('registration_attachment').filename
+            file = post.get('registration_attachment')
             attachment = file.read()
             attachment_id = Attachments.sudo().create({
                 'name': name,
@@ -161,8 +161,8 @@ class SignUpWebPage(http.Controller):
         if post.get('bank_st_front_pg_attachment', False):
             self.attachment_ = request.env['ir.attachment']
             Attachments = self.attachment_
-            name = post.get('attachment').filename
-            file = post.get('attachment')
+            name = post.get('bank_st_front_pg_attachment').filename
+            file = post.get('bank_st_front_pg_attachment')
             attachment = file.read()
             attachment_id = Attachments.sudo().create({
                 'name': name,
@@ -200,17 +200,8 @@ class SignUpWebPage(http.Controller):
         partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('member_name1'))])
 
         partner_search.sudo().update({
-            'type': 'delivery',
+            'type': 'contact',
             'company_type': 'person',
-            # 'name': post.get('org_name') + Shipping Address,
-            'street': post.get('shipping_address_line1'),
-            'street2': post.get('shipping_address_line2'),
-            # 'city_id': post.get('shipping_address_city'),
-            'state_id': post.get('shipping_address_state'),
-            'country_id': 157,
-            'email': post.get('email_id1'),
-            'zip': post.get('shipping_address_pin_code'),
-
             'parent_id': main_partner_search.id,
         })
 
@@ -224,7 +215,7 @@ class SignUpWebPage(http.Controller):
         partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('member_name2'))])
 
         partner_search.sudo().update({
-            'type': 'delivery',
+            'type': 'contact',
             'company_type': 'person',
             'parent_id': main_partner_search.id,
         })
@@ -239,7 +230,7 @@ class SignUpWebPage(http.Controller):
         partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('member_name3'))])
 
         partner_search.sudo().update({
-            'type': 'delivery',
+            'type': 'contact',
             'company_type': 'person',
             'parent_id': main_partner_search.id,
         })
