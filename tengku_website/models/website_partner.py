@@ -35,4 +35,12 @@ class TengkuWebsiteInherit(models.Model):
     is_merchant = fields.Boolean("Is Merchant")
     is_organization = fields.Boolean("Is Organization")
 
+
+    # registration_attachment_id = fields.Many2one('ir.attachment', string='Attachment', ondelete='cascade')
+    registration_acth = fields.Binary(string='Registration Certificate')
+    file_name = fields.Char("File Name")
+
+
+    front_page_bank_st = fields.Binary(string='Bank Statement Front Page')
+
     types = fields.Many2many('type.org.multi.select', string='Type')

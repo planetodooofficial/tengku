@@ -29,6 +29,7 @@
                                         <div class="travel7">
                                             Home
                                         </div>
+
                                         <img alt="Image/"
                                              class="givvbantu-logo-28" src="/tengku_website/static/src/images/givvbantu-logo-2-2@2x.png"/>
                                         <div class="icon-social-twitter11">
@@ -41,29 +42,38 @@
                                         </div>
                                         <img alt="Image/"
                                              class="icons8-instagram-90-113" src="/tengku_website/static/src/images/icons8-instagram-90-1-2@2x.png"/>
-                                        <div class="select-type-of-account-below-14">
-                                            Select type of account below...
-                                        </div>
-                                        <div class="download-the-app-to-start-giving15">
-                                            Download the app, to start giving
-                                        </div>
-                                        <div class="download-the-app17">
-                                            DOWNLOAD THE APP
-                                        </div>
-                                        <img alt="Image/" class="download-118"
-                                             src="/tengku_website/static/src/images/download-1@2x.png"/>
-                                        <img alt="Image/" class="icons8-ios-logo-50-119" src="/tengku_website/static/src/images/icons8-ios-logo-50-1@2x.png"/>
-                                        <a href="/registration">
-                                            <div class="button20">
-                                                <div class="ignore-me-also0">
-                                                    <div class="rectangle0">
+
+
+                                        <form role="form" action="/vendor_type" method="POST" enctype="multipart/form-data">
+                                            <input type="hidden" name="csrf_token" t-att-value="request.csrf_token()"/>
+
+
+                                            <div class="select-type-of-account-below-14">
+                                                Select type of account below...
+                                            </div>
+                                            <div class="download-the-app-to-start-giving15">
+                                                Download the app, to start giving
+                                            </div>
+                                            <div class="download-the-app17">
+                                                DOWNLOAD THE APP
+                                            </div>
+                                            <img alt="Image/" class="download-118"
+                                                 src="/tengku_website/static/src/images/download-1@2x.png"/>
+                                            <img alt="Image/" class="icons8-ios-logo-50-119" src="/tengku_website/static/src/images/icons8-ios-logo-50-1@2x.png"/>
+<!--                                            <a href="/registration">-->
+                                                <div class="button20">
+                                                    <div class="ignore-me-also0">
+                                                        <div class="rectangle0">
+                                                        </div>
+                                                    </div>
+                                                    <div class="next1 anima-valign-text-middle">
+                                                        <button type="submit">NEXT</button>
                                                     </div>
                                                 </div>
-                                                <div class="next1 anima-valign-text-middle">
-                                                    NEXT
-                                                </div>
+<!--                                            </a>-->
+                                            <div class="rectangle22">
                                             </div>
-                                        </a>
+<!--                                        </a>-->
                                         <div class="rectangle22">
                                         </div>
                                         <img alt="Image/" class="vector25-1"
@@ -94,44 +104,90 @@
                                         <div class="our-partners51">
                                             Our Partners
                                         </div>
-                                        <a href="/merchantregistration">
+                                        <a href="/merchantregistration"/>
                                             <div class="unactive53">
                                                 <div class="ignore-me-also0-1">
                                                     <div class="rectangle0-1">
+                                            <img alt="Image/" class="vector25-1"
+                                                 src="/tengku_website/static/src/images/vector-41@2x.png"/>
+                                            <img alt="Image/" class="vector26-1"
+                                                 src="/tengku_website/static/src/images/vector-42@2x.png"/>
+                                            <img alt="Image/" class="vector30-1"
+                                                 src="/tengku_website/static/src/images/vector-43@2x.png"/>
+                                            <img alt="Image/" class="xmlid-22933"
+                                                 src="/tengku_website/static/src/images/xmlid-229@2x.png"/>
+                                            <img alt="Image/" class="xmlid-23034"
+                                                 src="/tengku_website/static/src/images/xmlid-230@2x.png"/>
+                                            <img alt="Image/" class="vector38-1"
+                                                 src="/tengku_website/static/src/images/vector-44@2x.png"/>
+                                            <img alt="Image/" class="vector42"
+                                                 src="/tengku_website/static/src/images/vector-45@2x.png"/>
+                                            <img alt="Image/" class="vector45"
+                                                 src="/tengku_website/static/src/images/vector-46@2x.png"/>
+                                            <img alt="Image/" class="vector48"
+                                                 src="/tengku_website/static/src/images/vector-47@2x.png"/>
+                                            <div class="lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-49">
+                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                                tempor incididunt ut labore et dolore magna aliqua.
+                                            </div>
+                                            <div class="we-worked-with50">
+                                                — WE WORKED WITH
+                                            </div>
+                                            <div class="our-partners51">
+                                                Our Partners
+                                            </div>
+<!--&lt;!&ndash;                                            <a href="create-acccunt-web-desktop-charity-12.html">&ndash;&gt;-->
+<!--                                                <div class="unactive53">-->
+<!--                                                    <div class="ignore-me-also0-1">-->
+<!--                                                        <div class="rectangle0-1">-->
+
+
+                                                        </div>
+                                                        <label>
+                                                        <input class="form-check-input" type="radio" name="vendor_selection" id="merchant" value="merchant" style="position: absolute; opacity: 0; width: 0; height: 0;"/>
+                                                        <img alt="Image/"
+                                                             class="icons8-merchant-account-128-11"
+                                                             src="/tengku_website/static/src/images/icons8-merchant-account-128-1@2x.png " style="cursor: pointer;">
+
+                                                        </img>
+                                                        </label>
+
                                                     </div>
-                                                    <img alt="Image/"
-                                                         class="icons8-merchant-account-128-11"
-                                                         src="/tengku_website/static/src/images/icons8-merchant-account-128-1@2x.png"/>
+                                                    <div class="im-a-merchant1">
+                                                        I’m a Merchant
+                                                    </div>
                                                 </div>
-                                                <div class="im-a-merchant1">
-                                                    I’m a Merchant
+<!--                                            </a>-->
+                                            <div class="ignore-me-also55">
+                                                <div class="rectangle0-1">
+                                                </div>
+                                                <label>
+                                                <input class="form-check-input" type="radio" name="vendor_selection" id="center" value="center" style="position: absolute; opacity: 0; width: 0; height: 0;"/>
+                                                <img alt="Image/"
+                                                     class="icons8-charity-100-11" src="/tengku_website/static/src/images/icons8-charity-100-1@2x.png" style="cursor: pointer;"/>
+                                                </label>
+                                                <div class="ngo-social-organization-charity-etc-2">
+                                                    (NGO, Social Organization, Charity, etc)
                                                 </div>
                                             </div>
-                                        </a>
-                                        <div class="ignore-me-also55">
-                                            <div class="rectangle0-1">
+                                            <div class="i-m-a-centers-56">
+                                                I'm a Center
                                             </div>
-                                            <img alt="Image/"
-                                                 class="icons8-charity-100-11" src="/tengku_website/static/src/images/icons8-charity-100-1@2x.png"/>
-                                            <div class="ngo-social-organization-charity-etc-2">
-                                                (NGO, Social Organization, Charity, etc)
+                                            <img alt="Image/" class="fill-158"
+                                                 src="/tengku_website/static/src/images/fill-1@2x.png"/>
+                                            <img alt="Image/" class="stroke-359"
+                                                 src="/tengku_website/static/src/images/stroke-3@2x.png"/>
+                                            <img alt="Image/" class="stroke-560"
+                                                 src="/tengku_website/static/src/images/stroke-5@2x.png"/>
+                                            <img alt="Image/" class="stroke-761"
+                                                 src="/tengku_website/static/src/images/stroke-7@2x.png"/>
+                                            <img alt="Image/" class="stroke-962"
+                                                 src="/tengku_website/static/src/images/stroke-9@2x.png"/>
+                                            <div class="background64">
+
                                             </div>
-                                        </div>
-                                        <div class="i-m-a-centers-56">
-                                            I'm a Center
-                                        </div>
-                                        <img alt="Image/" class="fill-158"
-                                             src="/tengku_website/static/src/images/fill-1@2x.png"/>
-                                        <img alt="Image/" class="stroke-359"
-                                             src="/tengku_website/static/src/images/stroke-3@2x.png"/>
-                                        <img alt="Image/" class="stroke-560"
-                                             src="/tengku_website/static/src/images/stroke-5@2x.png"/>
-                                        <img alt="Image/" class="stroke-761"
-                                             src="/tengku_website/static/src/images/stroke-7@2x.png"/>
-                                        <img alt="Image/" class="stroke-962"
-                                             src="/tengku_website/static/src/images/stroke-9@2x.png"/>
-                                        <div class="background64">
-                                        </div>
+                                        </form>
+
                                         <div class="icon-social-linkedin67">
                                             <img alt="Image/" class="linkedin0"
                                                  src="/tengku_website/static/src/images/linkedin@2x.png"/>

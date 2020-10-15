@@ -40,10 +40,16 @@
                                 <field name="twitter_url"/>
                                 <field name="fb_url"/>
                                 <field name="insta_url"/>
+                                <field name="is_merchant"/>
+                                <field name="is_organization"/>
                             </group>
                             <group>
                                 <field name="bank_acc"/>
                                 <field name="bank_acc_name"/>
+                                <field name="front_page_bank_st"/>
+<!--                                <field name="registration_attachment_id"/>-->
+                                <field name="registration_acth" filename="file_name"/>
+                                <field name="file_name" invisible="1"/>
                             </group>
                         </group>
                     </page>
