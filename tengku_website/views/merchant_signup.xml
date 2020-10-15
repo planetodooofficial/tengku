@@ -26,6 +26,9 @@
                                         <div class="travel6-2">
                                             Terms
                                         </div>
+                                        <form role="form" action="/vendor_type" method="POST" enctype="multipart/form-data">
+                                            <input type="hidden" name="csrf_token" t-att-value="request.csrf_token()"/>
+
                                         <img alt="Image/" class="givvbantu-logo-27-1" src="/tengku_website/static/src/images/givvbantu-logo-2@2x.png"/>
                                         <div class="select-type-of-account-below-8">
                                             Select type of account below...
@@ -42,11 +45,11 @@
                                             <div class="rectangle0-1">
                                             </div>
                                         </div>
-                                        <a href="/merchantregistration">
+<!--                                        <a href="/merchantregistration">-->
                                         <div class="next16 anima-valign-text-middle">
                                             <button type="submit" onclick="submit_validation1(this)">NEXT</button>
                                         </div>
-                                        </a>
+<!--                                        </a>-->
                                         <div class="icon-social-twitter19">
                                             <img alt="Image/" class="twitter0-1" src="/tengku_website/static/src/images/twitter-13@2x.png"/>
                                         </div>
@@ -77,15 +80,32 @@
                                         <div class="ignore-me-also55-1">
                                             <div class="rectangle0-1">
                                             </div>
+
+                                            <label>
+                                                <input class="form-check-input" type="radio" name="vendor_selection" id="center" value="center" style="position: absolute; opacity: 0; width: 0; height: 0;"/>
+                                                <img alt="Image/"
+                                                     class="icons8-charity-100-12" src="/tengku_website/static/src/images/icons8-charity-100-1-1@2x.png" style="cursor: pointer;"/>
+                                            </label>
+
                                             <div class="i-m-a-center-1">
                                                 I'm Center
                                             </div>
-                                            <img alt="Image/" class="icons8-charity-100-12" src="/tengku_website/static/src/images/icons8-charity-100-1-1@2x.png"/>
+<!--                                            <img alt="Image/" class="icons8-charity-100-12" src="/tengku_website/static/src/images/icons8-charity-100-1-1@2x.png"/>-->
                                         </div>
+
                                         <div class="ignore-me-also57">
                                             <div class="rectangle0-1">
                                             </div>
-                                            <img alt="Image/" class="icons8-merchant-account-128-11-1" src="/tengku_website/static/src/images/icons8-merchant-account-128-1-1@2x.png"/>
+                                            <label>
+                                                <input class="form-check-input" type="radio" name="vendor_selection" id="merchant" value="merchant" style="position: absolute; opacity: 0; width: 0; height: 0;"/>
+                                                        <img alt="Image/"
+                                                             class="icons8-merchant-account-128-11-1"
+                                                             src="/tengku_website/static/src/images/icons8-merchant-account-128-1-1@2x.png " style="cursor: pointer;">
+
+                                                        </img>
+                                            </label>
+
+<!--                                            <img alt="Image/" class="icons8-merchant-account-128-11-1" src="/tengku_website/static/src/images/icons8-merchant-account-128-1-1@2x.png"/>-->
                                             <div class="im-a-merchant2">
                                                 I’m a Merchant
                                             </div>
@@ -119,7 +139,9 @@
                                             Terms
                                         </div>
                                         <img alt="Image/" class="givvbantu-logo-376" src="/tengku_website/static/src/images/givvbantu-logo-3-4@2x.png"/>
+                                        </form>
                                     </div>
+
                                 </div>
                             </div>
                         </div>

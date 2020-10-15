@@ -19,6 +19,8 @@ class SignUpWebPage(http.Controller):
         if post.get('vendor_selection') == 'center':
 
             return request.render('tengku_website.registration', value)
+        else:
+            return request.render('tengku_website.merchantaccount1',value)
 
 
 

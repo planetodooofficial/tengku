@@ -158,18 +158,18 @@
                                                     </div>
                                                 </div>
 <!--                                            </a>-->
-                                            <div class="ignore-me-also55">
-                                                <div class="rectangle0-1">
+                                                <div class="ignore-me-also55">
+                                                    <div class="rectangle0-1">
+                                                    </div>
+                                                    <label>
+                                                    <input class="form-check-input" type="radio" name="vendor_selection" id="center" value="center" style="position: absolute; opacity: 0; width: 0; height: 0;"/>
+                                                    <img alt="Image/"
+                                                         class="icons8-charity-100-11" src="/tengku_website/static/src/images/icons8-charity-100-1@2x.png" style="cursor: pointer;"/>
+                                                    </label>
+                                                    <div class="ngo-social-organization-charity-etc-2">
+                                                        (NGO, Social Organization, Charity, etc)
+                                                    </div>
                                                 </div>
-                                                <label>
-                                                <input class="form-check-input" type="radio" name="vendor_selection" id="center" value="center" style="position: absolute; opacity: 0; width: 0; height: 0;"/>
-                                                <img alt="Image/"
-                                                     class="icons8-charity-100-11" src="/tengku_website/static/src/images/icons8-charity-100-1@2x.png" style="cursor: pointer;"/>
-                                                </label>
-                                                <div class="ngo-social-organization-charity-etc-2">
-                                                    (NGO, Social Organization, Charity, etc)
-                                                </div>
-                                            </div>
                                             <div class="i-m-a-centers-56">
                                                 I'm a Center
                                             </div>
