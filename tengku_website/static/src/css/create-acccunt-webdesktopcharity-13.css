@@ -1,0 +1,489 @@
+/* screen - create-acccunt-webdesktopcharity-13 */
+
+.border-class-1 {
+  border-color:rgba(255,255,255,0);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-2 {
+  border-color:var(--shark);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-3 {
+  border-color:var(--shark);
+  border-style:solid;
+  border-width:2px;
+}
+.create-acccunt-webdesktopcharity-13 {
+  background-color:var(--concrete);
+  height:1143px;
+  overflow:hidden;
+  position:relative;
+  width:1440px;
+}
+.create-acccunt-webdesktopcharity-13 .about-us-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:680px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:76px;
+}
+.create-acccunt-webdesktopcharity-13 .about-us-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:506px;
+  position:absolute;
+  text-align:center;
+  top:1059px;
+  white-space:nowrap;
+  width:80px;
+}
+.create-acccunt-webdesktopcharity-13 .background-C61RwL {
+  background-color:var(--fuscous-gray);
+  height:147px;
+  left:-2px;
+  position:absolute;
+  top:1012px;
+  width:1442px;
+}
+.create-acccunt-webdesktopcharity-13 .contacts-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:818px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:73px;
+}
+.create-acccunt-webdesktopcharity-13 .contacts-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:652px;
+  position:absolute;
+  text-align:center;
+  top:1059px;
+  white-space:nowrap;
+  width:77px;
+}
+.create-acccunt-webdesktopcharity-13 .download-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:69px;
+  left:934px;
+  position:absolute;
+  top:378px;
+  width:71px;
+}
+.create-acccunt-webdesktopcharity-13 .download-t-art-giving-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:754px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:234px;
+  white-space:nowrap;
+  width:584px;
+}
+.create-acccunt-webdesktopcharity-13 .download-the-app-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:931px;
+  position:absolute;
+  text-align:center;
+  top:493px;
+  white-space:nowrap;
+  width:240px;
+}
+.create-acccunt-webdesktopcharity-13 .explore-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:585px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:33px;
+}
+.create-acccunt-webdesktopcharity-13 .explore-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:405px;
+  position:absolute;
+  text-align:center;
+  top:1059px;
+  white-space:nowrap;
+  width:35px;
+}
+.create-acccunt-webdesktopcharity-13 .facebook-RAoC7C {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:9px;
+  position:absolute;
+  top:5px;
+  width:8px;
+}
+.create-acccunt-webdesktopcharity-13 .facebook-xIvpKk {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:7px;
+  position:absolute;
+  top:-1px;
+  width:8px;
+}
+.create-acccunt-webdesktopcharity-13 .givvbantu-logo-2-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:49px;
+  left:126px;
+  position:absolute;
+  top:47px;
+  width:75px;
+}
+.create-acccunt-webdesktopcharity-13 .givvbantu-logo-3-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:49px;
+  left:113px;
+  position:absolute;
+  top:1048px;
+  width:80px;
+}
+.create-acccunt-webdesktopcharity-13 .icon-social-facebook-C61RwL {
+  background-color:var(--eerie-black);
+  height:14px;
+  left:1251px;
+  position:absolute;
+  top:64px;
+  width:23px;
+}
+.create-acccunt-webdesktopcharity-13 .icon-social-facebook-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:27px;
+  left:1310px;
+  position:absolute;
+  top:1059px;
+  width:25px;
+}
+.create-acccunt-webdesktopcharity-13 .icon-social-linkedin-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:27px;
+  left:1259px;
+  position:absolute;
+  top:1059px;
+  width:25px;
+}
+.create-acccunt-webdesktopcharity-13 .icon-social-twitter-C61RwL {
+  background-color:var(--eerie-black);
+  height:14px;
+  left:1160px;
+  position:absolute;
+  top:65px;
+  width:23px;
+}
+.create-acccunt-webdesktopcharity-13 .icon-social-twitter-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:27px;
+  left:1208px;
+  position:absolute;
+  top:1059px;
+  width:25px;
+}
+.create-acccunt-webdesktopcharity-13 .icons8-ins-agram-90-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:20px;
+  left:1207px;
+  position:absolute;
+  top:61px;
+  width:20px;
+}
+.create-acccunt-webdesktopcharity-13 .icons8-ios-logo-50-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:70px;
+  left:1099px;
+  position:absolute;
+  top:377px;
+  width:70px;
+}
+.create-acccunt-webdesktopcharity-13 .linkedin-Vcx4Rx {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:5px;
+  position:absolute;
+  top:4px;
+  width:16px;
+}
+.create-acccunt-webdesktopcharity-13 .lorem-ipsu-gna-aliqua-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:836px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:752px;
+  width:473px;
+}
+.create-acccunt-webdesktopcharity-13 .our-partners-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:130px;
+  position:absolute;
+  text-align:left;
+  top:708px;
+  white-space:nowrap;
+  width:500px;
+}
+.create-acccunt-webdesktopcharity-13 .rectangle-C61RwL {
+  background-color:var(--alabaster);
+  height:480px;
+  left:0px;
+  position:absolute;
+  top:606px;
+  width:1440px;
+}
+.create-acccunt-webdesktopcharity-13 .span1-heInZu {
+  color:rgba(34,34,34,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:600;
+  letter-spacing:-1.00px;
+  line-height:50.0px;
+}
+.create-acccunt-webdesktopcharity-13 .span2-heInZu {
+  color:rgba(34,34,34,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:22.0px;
+  font-style:normal;
+  font-weight:500;
+  letter-spacing:0.00px;
+  line-height:32.0px;
+}
+.create-acccunt-webdesktopcharity-13 .thanks-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:126px;
+  position:absolute;
+  text-align:left;
+  top:146px;
+  width:318px;
+}
+.create-acccunt-webdesktopcharity-13 .travel-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:472px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:51px;
+}
+.create-acccunt-webdesktopcharity-13 .travel-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:285px;
+  position:absolute;
+  text-align:center;
+  top:1059px;
+  white-space:nowrap;
+  width:54px;
+}
+.create-acccunt-webdesktopcharity-13 .twitter-rubtAs {
+  background-color:rgba(255,255,255,0);
+  height:14px;
+  left:5px;
+  position:absolute;
+  top:6px;
+  width:16px;
+}
+.create-acccunt-webdesktopcharity-13 .twitter-ukH1DM {
+  background-color:rgba(255,255,255,0);
+  height:14px;
+  left:3px;
+  position:absolute;
+  top:-0px;
+  width:16px;
+}
+.create-acccunt-webdesktopcharity-13 .vector-2P4qUJ {
+  background-color:rgba(0,0,0,0);
+  height:63px;
+  left:132px;
+  position:absolute;
+  top:884px;
+  width:61px;
+}
+.create-acccunt-webdesktopcharity-13 .vector-C61RwL {
+  background-color:rgba(0,0,0,0);
+  height:44px;
+  left:1242px;
+  position:absolute;
+  top:901px;
+  width:47px;
+}
+.create-acccunt-webdesktopcharity-13 .vector-J1YQmd {
+  background-color:rgba(0,0,0,0);
+  height:63px;
+  left:205px;
+  position:absolute;
+  top:884px;
+  width:13px;
+}
+.create-acccunt-webdesktopcharity-13 .vector-QxM5SU {
+  background-color:rgba(0,0,0,0);
+  height:70px;
+  left:413px;
+  position:absolute;
+  top:881px;
+  width:56px;
+}
+.create-acccunt-webdesktopcharity-13 .vector-VMr6Om {
+  background-color:rgba(0,0,0,0);
+  height:56px;
+  left:1246px;
+  position:absolute;
+  top:885px;
+  width:60px;
+}
+.create-acccunt-webdesktopcharity-13 .vector-mzXdH9 {
+  background-color:rgba(0,0,0,0);
+  height:50px;
+  left:937px;
+  position:absolute;
+  top:890px;
+  width:154px;
+}
+.create-acccunt-webdesktopcharity-13 .vector-qr8e7q {
+  background-color:rgba(0,0,0,0);
+  height:40px;
+  left:156px;
+  position:absolute;
+  top:907px;
+  width:12px;
+}
+.create-acccunt-webdesktopcharity-13 .x-we-worked-with-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:836px;
+  position:absolute;
+  text-align:left;
+  top:716px;
+  white-space:nowrap;
+  width:270px;
+}
+.create-acccunt-webdesktopcharity-13 .xmlid-229-C61RwL {
+  background-color:rgba(0,0,0,0);
+  height:52px;
+  left:690px;
+  position:absolute;
+  top:897px;
+  width:60px;
+}
+.create-acccunt-webdesktopcharity-13 .xmlid-230-C61RwL {
+  background-color:rgba(0,0,0,0);
+  height:17px;
+  left:719px;
+  position:absolute;
+  top:881px;
+  width:16px;
+}
+.create-acccunt-webdesktopcharity-13 .your-regis-t-creation-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  font-size:40.0px;
+  height:auto;
+  left:126px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:236px;
+  width:584px;
+}
+.font-class-1 {
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:18.0px;
+  font-style:normal;
+  font-weight:400;
+  line-height:28.0px;
+}
+.font-class-10 {
+  font-family:'Arial', Helvetica, Arial, serif;
+  font-size:16.0px;
+  font-style:normal;
+  font-weight:400;
+  line-height:22.0px;
+}
+.font-class-2 {
+  color:var(--shark);
+  font-family:'Cabin', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.font-class-3 {
+  color:var(--shark);
+  font-family:'Cabin', Helvetica, Arial, serif;
+  font-size:18.0px;
+  font-style:normal;
+  font-weight:700;
+}
+.font-class-4 {
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:14.0px;
+  font-style:normal;
+  font-weight:500;
+  letter-spacing:4.00px;
+  line-height:24.0px;
+}
+.font-class-5 {
+  color:var(--log-cabin);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:40.0px;
+  font-style:normal;
+  font-weight:600;
+  letter-spacing:-1.00px;
+  line-height:50.0px;
+}
+.font-class-6 {
+  color:var(--log-cabin);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:60.0px;
+  font-style:normal;
+  font-weight:700;
+  letter-spacing:-1.00px;
+  line-height:70.0px;
+}
+.font-class-7 {
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:22.0px;
+  font-style:normal;
+  font-weight:500;
+  line-height:32.0px;
+}
+.font-class-8 {
+  font-family:"Fira Sans", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  font-family:"Arial", Helvetica, Arial, serif;
+}
+:root {
+  --alabaster:rgba(250,250,250,1.0);
+  --black:rgba(0,0,0,1.0);
+  --buddha-gold:rgba(196,166,10,0.95);
+  --concrete:rgba(243,243,243,1.0);
+  --eerie-black:rgba(27,27,27,1.0);
+  --fuscous-gray:rgba(81,81,81,1.0);
+  --log-cabin:rgba(34,34,34,1.0);
+  --shark:rgba(38,38,38,1.0);
+  --white:rgba(255,255,255,1.0);
+}

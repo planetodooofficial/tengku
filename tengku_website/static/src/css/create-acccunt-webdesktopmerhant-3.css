@@ -1,0 +1,1317 @@
+/* screen - create-acccunt-webdesktopmerhant-3 */
+
+.border-class-1 {
+  border-color:rgba(255,255,255,0);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-2 {
+  border-color:var(--shark);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-3 {
+  border-color:var(--shark);
+  border-style:solid;
+  border-width:2px;
+}
+.create-acccunt-webdesktopmerhant-3 {
+  background-color:var(--concrete);
+  height:2077px;
+  overflow:hidden;
+  position:relative;
+  width:1644px;
+}
+.create-acccunt-webdesktopmerhant-3 .about-us-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:680px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:76px;
+}
+.create-acccunt-webdesktopmerhant-3 .about-us-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:488px;
+  position:absolute;
+  text-align:center;
+  top:1987px;
+  white-space:nowrap;
+  width:77px;
+}
+.create-acccunt-webdesktopmerhant-3 .address-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:166px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:820px;
+  white-space:nowrap;
+  width:auto;
+}
+.create-acccunt-webdesktopmerhant-3 .address-VMr6Om {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:166px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:902px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .address-line-1-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:150px;
+  position:absolute;
+  text-align:left;
+  top:782px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .address-line-2-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:150px;
+  position:absolute;
+  text-align:left;
+  top:864px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .arrow-down-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:622px;
+  overflow:hidden;
+  position:absolute;
+  top:567px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerhant-3 .arrow-down-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:1221px;
+  overflow:hidden;
+  position:absolute;
+  top:822px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerhant-3 .back-C61RwL {
+  background-color:rgba(130,130,130,0);
+  color:rgba(130,130,130,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:14.0px;
+  font-style:normal;
+  font-weight:700;
+  height:56px;
+  left:975px;
+  letter-spacing:4.00px;
+  line-height:24.0px;
+  opacity:0.7;
+  position:absolute;
+  text-align:center;
+  top:1306px;
+  width:133px;
+}
+.create-acccunt-webdesktopmerhant-3 .background-C61RwL {
+  background-color:var(--fuscous-gray);
+  height:132px;
+  left:0px;
+  position:absolute;
+  top:1945px;
+  width:1385px;
+}
+.create-acccunt-webdesktopmerhant-3 .bounds-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:1px;
+  left:966px;
+  position:absolute;
+  top:1332px;
+  width:1px;
+}
+.create-acccunt-webdesktopmerhant-3 .button-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:56px;
+  left:1111px;
+  position:absolute;
+  top:1306px;
+  width:150px;
+}
+.create-acccunt-webdesktopmerhant-3 .channel-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:150px;
+  position:absolute;
+  text-align:left;
+  top:523px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .city-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:766px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:910px;
+  white-space:nowrap;
+  width:auto;
+}
+.create-acccunt-webdesktopmerhant-3 .city-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:754px;
+  position:absolute;
+  text-align:left;
+  top:870px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .contacts-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:818px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:73px;
+}
+.create-acccunt-webdesktopmerhant-3 .contacts-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:628px;
+  position:absolute;
+  text-align:center;
+  top:1987px;
+  white-space:nowrap;
+  width:74px;
+}
+.create-acccunt-webdesktopmerhant-3 .create-account-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:150px;
+  position:absolute;
+  text-align:left;
+  top:147px;
+  width:652px;
+}
+.create-acccunt-webdesktopmerhant-3 .describe-w--100-words-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:754px;
+  position:absolute;
+  text-align:left;
+  top:523px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .description-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:770px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:561px;
+  white-space:nowrap;
+  width:590px;
+}
+.eg-6-03-1234567-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:166px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:648px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .eg-6012-1234567-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:166px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:730px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .email-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:768px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:390px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .enter-your-cial-media-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:157px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:1160px;
+  width:398px;
+}
+.create-acccunt-webdesktopmerhant-3 .explore-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:585px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:33px;
+}
+.create-acccunt-webdesktopmerhant-3 .explore-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:391px;
+  position:absolute;
+  text-align:center;
+  top:1987px;
+  white-space:nowrap;
+  width:34px;
+}
+.create-acccunt-webdesktopmerhant-3 .facebook-RAoC7C {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:8px;
+  position:absolute;
+  top:4px;
+  width:8px;
+}
+.create-acccunt-webdesktopmerhant-3 .facebook-xIvpKk {
+  background-color:rgba(255,255,255,0);
+  height:15px;
+  left:3px;
+  position:absolute;
+  top:-2px;
+  width:8px;
+}
+.create-acccunt-webdesktopmerhant-3 .givvbantu-logo-3-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:49px;
+  left:145px;
+  position:absolute;
+  top:50px;
+  width:75px;
+}
+.create-acccunt-webdesktopmerhant-3 .givvbantu-logo-3-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:49px;
+  left:124px;
+  position:absolute;
+  top:1974px;
+  width:77px;
+}
+.create-acccunt-webdesktopmerhant-3 .gps-coord-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:166px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:987px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .gps-coordinates-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:150px;
+  position:absolute;
+  text-align:left;
+  top:949px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .how-do-i-know-this-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:10.0px;
+  height:18px;
+  left:541px;
+  line-height:17.0px;
+  opacity:0.4;
+  position:absolute;
+  text-align:right;
+  top:953px;
+  white-space:nowrap;
+  width:113px;
+}
+.create-acccunt-webdesktopmerhant-3 .icon-conta-t-facebook-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:18px;
+  left:924px;
+  overflow:hidden;
+  position:absolute;
+  top:1151px;
+  width:18px;
+}
+.create-acccunt-webdesktopmerhant-3 .icon-contact-insert-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:20px;
+  left:1080px;
+  overflow:hidden;
+  position:absolute;
+  top:243px;
+  width:20px;
+}
+.create-acccunt-webdesktopmerhant-3 .icon-contact-twitter-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:18px;
+  left:927px;
+  overflow:hidden;
+  position:absolute;
+  top:1082px;
+  width:18px;
+}
+.create-acccunt-webdesktopmerhant-3 .icon-social-facebook-C61RwL {
+  background-color:var(--eerie-black);
+  height:13px;
+  left:1217px;
+  position:absolute;
+  top:65px;
+  width:13px;
+}
+.create-acccunt-webdesktopmerhant-3 .icon-social-facebook-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:24px;
+  left:1260px;
+  position:absolute;
+  top:1987px;
+  width:24px;
+}
+.create-acccunt-webdesktopmerhant-3 .icon-social-linkedin-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:24px;
+  left:1211px;
+  position:absolute;
+  top:1987px;
+  width:24px;
+}
+.create-acccunt-webdesktopmerhant-3 .icon-social-twitter-C61RwL {
+  background-color:var(--eerie-black);
+  height:13px;
+  left:1110px;
+  position:absolute;
+  top:65px;
+  width:13px;
+}
+.create-acccunt-webdesktopmerhant-3 .icon-social-twitter-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:24px;
+  left:1162px;
+  position:absolute;
+  top:1987px;
+  width:24px;
+}
+.create-acccunt-webdesktopmerhant-3 .icons8-ins-agram-90-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:20px;
+  left:1164px;
+  position:absolute;
+  top:61px;
+  width:15px;
+}
+.create-acccunt-webdesktopmerhant-3 .icons8-ins-am-100-1-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:18px;
+  left:926px;
+  position:absolute;
+  top:1217px;
+  width:18px;
+}
+.create-acccunt-webdesktopmerhant-3 .ignore-me-also-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:48px;
+  left:593px;
+  position:absolute;
+  top:1066px;
+  width:379px;
+}
+.create-acccunt-webdesktopmerhant-3 .ignore-me-also-QxM5SU {
+  background-color:rgba(255,255,255,0);
+  height:48px;
+  left:986px;
+  position:absolute;
+  top:1197px;
+  width:363px;
+}
+.create-acccunt-webdesktopmerhant-3 .ignore-me-also-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:48px;
+  left:986px;
+  position:absolute;
+  top:1066px;
+  width:362px;
+}
+.create-acccunt-webdesktopmerhant-3 .ignore-me-also-mzXdH9 {
+  background-color:rgba(255,255,255,0);
+  height:48px;
+  left:986px;
+  position:absolute;
+  top:1132px;
+  width:363px;
+}
+.create-acccunt-webdesktopmerhant-3 .ignore-me-also-xHxYv9 {
+  background-color:rgba(255,255,255,0);
+  height:56px;
+  left:0px;
+  position:absolute;
+  top:0px;
+  width:144px;
+}
+.create-acccunt-webdesktopmerhant-3 .linkedin-Vcx4Rx {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:4px;
+  position:absolute;
+  top:3px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerhant-3 .logo-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:1026px;
+  position:absolute;
+  text-align:left;
+  top:241px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .lorem-ipsu-gna-aliqua-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:805px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:1611px;
+  width:456px;
+}
+.create-acccunt-webdesktopmerhant-3 .merchants--rmation-12-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:150px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:255px;
+  white-space:nowrap;
+  width:584px;
+}
+.create-acccunt-webdesktopmerhant-3 .mobile-no--xx-xxxxxxx-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:150px;
+  position:absolute;
+  text-align:left;
+  top:692px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .multiple-selection-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:164px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:563px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .name-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:164px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:490px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .next-xHxYv9 {
+  background-color:rgba(196,166,10,0);
+  color:var(--buddha-gold);
+  height:24px;
+  left:0px;
+  position:absolute;
+  text-align:center;
+  top:17px;
+  white-space:nowrap;
+  width:146px;
+}
+.create-acccunt-webdesktopmerhant-3 .nick-name-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:164px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:392px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .oh-oh-seem-ur-support-C61RwL {
+  background-color:rgba(255,255,255,0);
+  color:rgba(255,255,255,0);
+  font-family:"Roboto", Helvetica, Arial, serif;
+  font-size:12.0px;
+  height:auto;
+  left:723px;
+  letter-spacing:0.00px;
+  line-height:16.0px;
+  position:absolute;
+  text-align:left;
+  top:1310px;
+  width:223px;
+}
+.create-acccunt-webdesktopmerhant-3 .organizati-gistration-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:150px;
+  position:absolute;
+  text-align:left;
+  top:434px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .organizati-ublic-name-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:150px;
+  position:absolute;
+  text-align:left;
+  top:352px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .organization-email-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:752px;
+  position:absolute;
+  text-align:left;
+  top:352px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .our-partners-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:125px;
+  position:absolute;
+  text-align:left;
+  top:1567px;
+  white-space:nowrap;
+  width:481px;
+}
+.create-acccunt-webdesktopmerhant-3 .path-KeBiPw {
+  background-color:rgba(242,153,74,0);
+  height:8px;
+  left:2px;
+  position:absolute;
+  top:4px;
+  width:12px;
+}
+.create-acccunt-webdesktopmerhant-3 .path-YGuXWx {
+  background-color:rgba(196,166,10,0);
+  height:8px;
+  left:2px;
+  position:absolute;
+  top:4px;
+  width:12px;
+}
+.create-acccunt-webdesktopmerhant-3 .please-ref-gistration-C61RwL {
+  background-color:rgba(255,255,255,0);
+  color:rgba(255,255,255,0);
+  font-size:18.0px;
+  height:auto;
+  left:560px;
+  line-height:28.0px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:159px;
+  width:392px;
+}
+.create-acccunt-webdesktopmerhant-3 .postal-code-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:764px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:987px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .postal-code-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:748px;
+  position:absolute;
+  text-align:left;
+  top:949px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-00LGpa {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:80px;
+  left:1124px;
+  opacity:0.15;
+  position:absolute;
+  top:240px;
+  width:108px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-2P4qUJ {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:754px;
+  opacity:0.15;
+  position:absolute;
+  top:462px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-3kIbHG {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:150px;
+  opacity:0.15;
+  position:absolute;
+  top:977px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-4aYLL0 {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:0px;
+  opacity:0.15;
+  position:absolute;
+  top:0px;
+  width:275px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-6xdCqt {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:0px;
+  opacity:0.15;
+  position:absolute;
+  top:0px;
+  width:258px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-C61RwL {
+  background-color:var(--alabaster);
+  height:480px;
+  left:0px;
+  position:absolute;
+  top:1465px;
+  width:1386px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-GmgjQn {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:0px;
+  opacity:0.15;
+  position:absolute;
+  top:0px;
+  width:258px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-HlKRTo {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:150px;
+  opacity:0.15;
+  position:absolute;
+  top:810px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-J1YQmd {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:152px;
+  opacity:0.15;
+  position:absolute;
+  top:639px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-QxM5SU {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:218px;
+  left:754px;
+  opacity:0.15;
+  position:absolute;
+  top:551px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-R7WrHk {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:750px;
+  opacity:0.15;
+  position:absolute;
+  top:806px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:150px;
+  opacity:0.15;
+  position:absolute;
+  top:462px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-VkPPtx {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:150px;
+  opacity:0.15;
+  position:absolute;
+  top:892px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-YWzA7M {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:748px;
+  opacity:0.15;
+  position:absolute;
+  top:977px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-a5WPlX {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:152px;
+  opacity:0.15;
+  position:absolute;
+  top:721px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-a73nmY {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:750px;
+  opacity:0.15;
+  position:absolute;
+  top:900px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-mzXdH9 {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:150px;
+  opacity:0.15;
+  position:absolute;
+  top:551px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-oKUHsQ {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:56px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:144px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-qr8e7q {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:752px;
+  opacity:0.15;
+  position:absolute;
+  top:380px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-rxvq3k {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:150px;
+  opacity:0.15;
+  position:absolute;
+  top:380px;
+  width:502px;
+}
+.create-acccunt-webdesktopmerhant-3 .rectangle-z8q74Q {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:0px;
+  opacity:0.15;
+  position:absolute;
+  top:0px;
+  width:258px;
+}
+.create-acccunt-webdesktopmerhant-3 .registation-no-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:770px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:472px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .shape-C61RwL {
+  background-color:rgba(219,68,55,0);
+  height:15px;
+  left:958px;
+  position:absolute;
+  top:1324px;
+  width:17px;
+}
+.create-acccunt-webdesktopmerhant-3 .span1-779XUw {
+  color:rgba(244,67,54,1.0);
+  font-family:'Roboto', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.create-acccunt-webdesktopmerhant-3 .span1-gNJypx {
+  color:rgba(34,34,34,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.00px;
+}
+.create-acccunt-webdesktopmerhant-3 .span2-779XUw {
+  color:rgba(45,156,219,1.0);
+  font-family:'Roboto', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.create-acccunt-webdesktopmerhant-3 .span2-gNJypx {
+  color:rgba(45,156,219,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.00px;
+}
+.create-acccunt-webdesktopmerhant-3 .span3-779XUw {
+  color:rgba(244,67,54,1.0);
+  font-family:'Roboto', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.create-acccunt-webdesktopmerhant-3 .span3-gNJypx {
+  color:rgba(34,34,34,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.00px;
+}
+.create-acccunt-webdesktopmerhant-3 .span4-779XUw {
+  color:rgba(45,156,219,1.0);
+  font-family:'Roboto', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.create-acccunt-webdesktopmerhant-3 .ssm-rob-re-ion-number-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:754px;
+  position:absolute;
+  text-align:left;
+  top:434px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .state-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:766px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:816px;
+  white-space:nowrap;
+  width:590px;
+}
+.create-acccunt-webdesktopmerhant-3 .state-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:750px;
+  position:absolute;
+  text-align:left;
+  top:778px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .telephone--ode-number-C61RwL {
+  background-color:rgba(38,38,38,0);
+  height:auto;
+  left:150px;
+  position:absolute;
+  text-align:left;
+  top:610px;
+  width:618px;
+}
+.create-acccunt-webdesktopmerhant-3 .travel-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:472px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:51px;
+}
+.create-acccunt-webdesktopmerhant-3 .travel-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:276px;
+  position:absolute;
+  text-align:center;
+  top:1987px;
+  white-space:nowrap;
+  width:52px;
+}
+.create-acccunt-webdesktopmerhant-3 .twitter-rubtAs {
+  background-color:rgba(255,255,255,0);
+  height:14px;
+  left:4px;
+  position:absolute;
+  top:5px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerhant-3 .twitter-ukH1DM {
+  background-color:rgba(255,255,255,0);
+  height:14px;
+  left:-1px;
+  position:absolute;
+  top:-2px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerhant-3 .url-6xdCqt {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:16px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:11px;
+  transform:rotate(-0.31340650065061937deg);
+  white-space:nowrap;
+  width:346px;
+}
+.create-acccunt-webdesktopmerhant-3 .url-GmgjQn {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:16px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:11px;
+  transform:rotate(-0.31340650065061937deg);
+  white-space:nowrap;
+  width:346px;
+}
+.create-acccunt-webdesktopmerhant-3 .url-z8q74Q {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:16px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:11px;
+  transform:rotate(-0.31340650065061937deg);
+  white-space:nowrap;
+  width:346px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-2P4qUJ {
+  background-color:rgba(0,0,0,0);
+  height:63px;
+  left:127px;
+  position:absolute;
+  top:1743px;
+  width:59px;
+}
+.vector-C61RwL {
+  background-color:rgba(0,0,0,0);
+  height:44px;
+  left:1195px;
+  position:absolute;
+  top:1760px;
+  width:46px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-J1YQmd {
+  background-color:rgba(0,0,0,0);
+  height:63px;
+  left:197px;
+  position:absolute;
+  top:1743px;
+  width:12px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-QbEzA1 {
+  background-color:rgba(194,207,224,0);
+  height:15px;
+  left:0px;
+  position:absolute;
+  top:2px;
+  width:18px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-QxM5SU {
+  background-color:rgba(0,0,0,0);
+  height:70px;
+  left:397px;
+  position:absolute;
+  top:1740px;
+  width:54px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-VMr6Om {
+  background-color:rgba(0,0,0,0);
+  height:56px;
+  left:1199px;
+  position:absolute;
+  top:1744px;
+  width:58px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-c0Ki5r {
+  background-color:rgba(51,77,110,0);
+  height:9px;
+  left:1px;
+  position:absolute;
+  top:6px;
+  width:17px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-cWxrGF {
+  background-color:rgba(194,207,224,0);
+  height:18px;
+  left:4px;
+  position:absolute;
+  top:0px;
+  width:10px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-l4g9lp {
+  background-color:rgba(255,255,255,0);
+  height:1px;
+  left:10px;
+  position:absolute;
+  top:10px;
+  width:1px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-mzXdH9 {
+  background-color:rgba(0,0,0,0);
+  height:50px;
+  left:902px;
+  position:absolute;
+  top:1749px;
+  width:149px;
+}
+.create-acccunt-webdesktopmerhant-3 .vector-qr8e7q {
+  background-color:rgba(0,0,0,0);
+  height:40px;
+  left:151px;
+  position:absolute;
+  top:1766px;
+  width:12px;
+}
+.create-acccunt-webdesktopmerhant-3 .website-ad-a-accounts-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:152px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:1066px;
+  width:383px;
+}
+.create-acccunt-webdesktopmerhant-3 .webstie-url-4aYLL0 {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:16px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:10px;
+  white-space:nowrap;
+  width:363px;
+}
+.create-acccunt-webdesktopmerhant-3 .x-we-worked-with-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:805px;
+  position:absolute;
+  text-align:left;
+  top:1575px;
+  white-space:nowrap;
+  width:260px;
+}
+.create-acccunt-webdesktopmerhant-3 .x0100-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:10.0px;
+  height:19px;
+  left:1184px;
+  line-height:17.0px;
+  opacity:0.4;
+  position:absolute;
+  text-align:right;
+  top:739px;
+  white-space:nowrap;
+  width:60px;
+}
+.create-acccunt-webdesktopmerhant-3 .xmlid-229-C61RwL {
+  background-color:rgba(0,0,0,0);
+  height:52px;
+  left:664px;
+  position:absolute;
+  top:1756px;
+  width:58px;
+}
+.create-acccunt-webdesktopmerhant-3 .xmlid-230-C61RwL {
+  background-color:rgba(0,0,0,0);
+  height:17px;
+  left:692px;
+  position:absolute;
+  top:1740px;
+  width:16px;
+}
+.font-class-1 {
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:18.0px;
+  font-style:normal;
+  font-weight:400;
+  line-height:28.0px;
+}
+.font-class-10 {
+  font-family:'Arial', Helvetica, Arial, serif;
+  font-size:16.0px;
+  font-style:normal;
+  font-weight:400;
+  line-height:22.0px;
+}
+.font-class-2 {
+  color:var(--shark);
+  font-family:'Cabin', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.font-class-3 {
+  color:var(--shark);
+  font-family:'Cabin', Helvetica, Arial, serif;
+  font-size:18.0px;
+  font-style:normal;
+  font-weight:700;
+}
+.font-class-4 {
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:14.0px;
+  font-style:normal;
+  font-weight:500;
+  letter-spacing:4.00px;
+  line-height:24.0px;
+}
+.font-class-5 {
+  color:var(--log-cabin);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:40.0px;
+  font-style:normal;
+  font-weight:600;
+  letter-spacing:-1.00px;
+  line-height:50.0px;
+}
+.font-class-6 {
+  color:var(--log-cabin);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:60.0px;
+  font-style:normal;
+  font-weight:700;
+  letter-spacing:-1.00px;
+  line-height:70.0px;
+}
+.font-class-7 {
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:22.0px;
+  font-style:normal;
+  font-weight:500;
+  line-height:32.0px;
+}
+.font-class-8 {
+  font-family:"Fira Sans", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  font-family:"Arial", Helvetica, Arial, serif;
+}
+:root {
+  --alabaster:rgba(250,250,250,1.0);
+  --black:rgba(0,0,0,1.0);
+  --buddha-gold:rgba(196,166,10,0.95);
+  --concrete:rgba(243,243,243,1.0);
+  --eerie-black:rgba(27,27,27,1.0);
+  --fuscous-gray:rgba(81,81,81,1.0);
+  --log-cabin:rgba(34,34,34,1.0);
+  --shark:rgba(38,38,38,1.0);
+  --white:rgba(255,255,255,1.0);
+}

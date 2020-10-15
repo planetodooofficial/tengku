@@ -399,16 +399,6 @@
                             </div>
                         </div>
                     </div>
-                    <script>
-                    $(document).ready(function() {
-                    $('.mdb-select').group-26({
-                        placeholder:"Select Multiple",
-                        tags:true,
-                        tokenSeparators: ['/',',',','," "]
-                    });
-                        })
-                    </script>
-
                 </t>
             </t>
         </field>

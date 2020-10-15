@@ -1,0 +1,748 @@
+/* screen - create-acccunt-webdesktopmerchant-5 */
+
+.border-class-1 {
+  border-color:rgba(255,255,255,0);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-2 {
+  border-color:var(--shark);
+  border-style:solid;
+  border-width:1px;
+}
+.border-class-3 {
+  border-color:var(--shark);
+  border-style:solid;
+  border-width:2px;
+}
+.create-acccunt-webdesktopmerchant-5 {
+  background-color:var(--concrete);
+  height:1464px;
+  overflow:hidden;
+  position:relative;
+  width:1440px;
+}
+.create-acccunt-webdesktopmerchant-5 .about-us-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:680px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:76px;
+}
+.create-acccunt-webdesktopmerchant-5 .about-us-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:506px;
+  position:absolute;
+  text-align:center;
+  top:1402px;
+  white-space:nowrap;
+  width:80px;
+}
+.create-acccunt-webdesktopmerchant-5 .allow-you--a-max-of-3-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:169px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:414px;
+  width:563px;
+}
+.create-acccunt-webdesktopmerchant-5 .back-C61RwL {
+  background-color:rgba(196,166,10,0);
+  color:var(--buddha-gold);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:14.0px;
+  font-style:normal;
+  font-weight:700;
+  height:56px;
+  left:748px;
+  letter-spacing:4.00px;
+  line-height:24.0px;
+  opacity:0.7;
+  position:absolute;
+  text-align:center;
+  top:689px;
+  width:133px;
+}
+.create-acccunt-webdesktopmerchant-5 .background-C61RwL {
+  background-color:var(--fuscous-gray);
+  height:132px;
+  left:-2px;
+  position:absolute;
+  top:1360px;
+  width:1442px;
+}
+.create-acccunt-webdesktopmerchant-5 .button-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:56px;
+  left:1047px;
+  position:absolute;
+  top:683px;
+  width:166px;
+}
+.create-acccunt-webdesktopmerchant-5 .by-submitt-conditions-C61RwL {
+  background-color:rgba(255,255,255,0);
+  color:rgba(255,255,255,0);
+  font-size:18.0px;
+  height:auto;
+  left:893px;
+  line-height:28.0px;
+  opacity:0.7;
+  position:absolute;
+  text-align:justify;
+  top:758px;
+  width:312px;
+}
+.create-acccunt-webdesktopmerchant-5 .cancel-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:24px;
+  left:891px;
+  position:absolute;
+  text-align:center;
+  top:700px;
+  white-space:nowrap;
+  width:146px;
+}
+.create-acccunt-webdesktopmerchant-5 .contacts-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:818px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:73px;
+}
+.create-acccunt-webdesktopmerchant-5 .contacts-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:652px;
+  position:absolute;
+  text-align:center;
+  top:1402px;
+  white-space:nowrap;
+  width:77px;
+}
+.create-acccunt-webdesktopmerchant-5 .create-account-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:161px;
+  position:absolute;
+  text-align:left;
+  top:166px;
+  width:652px;
+}
+.create-acccunt-webdesktopmerchant-5 .email-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:1065px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:411px;
+  white-space:nowrap;
+  width:346px;
+}
+.create-acccunt-webdesktopmerchant-5 .email-VMr6Om {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:1063px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:477px;
+  white-space:nowrap;
+  width:346px;
+}
+.create-acccunt-webdesktopmerchant-5 .email-mzXdH9 {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:1063px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:542px;
+  white-space:nowrap;
+  width:346px;
+}
+.create-acccunt-webdesktopmerchant-5 .explore-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:585px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:33px;
+}
+.create-acccunt-webdesktopmerchant-5 .explore-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:405px;
+  position:absolute;
+  text-align:center;
+  top:1402px;
+  white-space:nowrap;
+  width:35px;
+}
+.create-acccunt-webdesktopmerchant-5 .facebook-RAoC7C {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:9px;
+  position:absolute;
+  top:4px;
+  width:8px;
+}
+.create-acccunt-webdesktopmerchant-5 .facebook-xIvpKk {
+  background-color:rgba(255,255,255,0);
+  height:15px;
+  left:3px;
+  position:absolute;
+  top:-2px;
+  width:8px;
+}
+.create-acccunt-webdesktopmerchant-5 .frame-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:44px;
+  left:115px;
+  overflow:hidden;
+  position:absolute;
+  top:49px;
+  width:98px;
+}
+.create-acccunt-webdesktopmerchant-5 .givvbantu-logo-3-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:49px;
+  left:145px;
+  position:absolute;
+  top:50px;
+  width:75px;
+}
+.create-acccunt-webdesktopmerchant-5 .givvbantu-logo-3-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:49px;
+  left:127px;
+  position:absolute;
+  top:1389px;
+  width:80px;
+}
+.create-acccunt-webdesktopmerchant-5 .i-am-not-a-robot-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:auto;
+  left:1089px;
+  line-height:27.2px;
+  position:absolute;
+  text-align:left;
+  top:642px;
+  white-space:nowrap;
+  width:132px;
+}
+.create-acccunt-webdesktopmerchant-5 .icon-social-facebook-C61RwL {
+  background-color:var(--eerie-black);
+  height:13px;
+  left:1246px;
+  position:absolute;
+  top:75px;
+  width:13px;
+}
+.create-acccunt-webdesktopmerchant-5 .icon-social-facebook-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:24px;
+  left:1310px;
+  position:absolute;
+  top:1402px;
+  width:25px;
+}
+.create-acccunt-webdesktopmerchant-5 .icon-social-linkedin-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:24px;
+  left:1259px;
+  position:absolute;
+  top:1402px;
+  width:25px;
+}
+.create-acccunt-webdesktopmerchant-5 .icon-social-twitter-C61RwL {
+  background-color:var(--eerie-black);
+  height:13px;
+  left:1139px;
+  position:absolute;
+  top:75px;
+  width:13px;
+}
+.create-acccunt-webdesktopmerchant-5 .icon-social-twitter-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:24px;
+  left:1208px;
+  position:absolute;
+  top:1402px;
+  width:25px;
+}
+.create-acccunt-webdesktopmerchant-5 .icons8-ins-agram-90-1-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:20px;
+  left:1193px;
+  position:absolute;
+  top:71px;
+  width:15px;
+}
+.create-acccunt-webdesktopmerchant-5 .ignore-me-also-C61RwL {
+  background-color:rgba(255,255,255,0);
+  height:56px;
+  left:891px;
+  position:absolute;
+  top:683px;
+  width:144px;
+}
+.create-acccunt-webdesktopmerchant-5 .ignore-me-also-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:1065px;
+  opacity:0.5;
+  position:absolute;
+  top:643px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerchant-5 .ignore-me-also-xHxYv9 {
+  background-color:rgba(255,255,255,0);
+  height:56px;
+  left:0px;
+  position:absolute;
+  top:0px;
+  width:160px;
+}
+.create-acccunt-webdesktopmerchant-5 .linkedin-Vcx4Rx {
+  background-color:rgba(255,255,255,0);
+  height:16px;
+  left:5px;
+  position:absolute;
+  top:3px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerchant-5 .lorem-ipsu-gna-aliqua-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:836px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:1026px;
+  width:473px;
+}
+.create-acccunt-webdesktopmerchant-5 .merchants--rmation-22-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:161px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:259px;
+  white-space:nowrap;
+  width:584px;
+}
+.create-acccunt-webdesktopmerchant-5 .our-partners-C61RwL {
+  background-color:rgba(34,34,34,0);
+  height:auto;
+  left:130px;
+  position:absolute;
+  text-align:left;
+  top:982px;
+  white-space:nowrap;
+  width:500px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-2P4qUJ {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:769px;
+  opacity:0.15;
+  position:absolute;
+  top:401px;
+  width:258px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-4aYLL0 {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:56px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:144px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-6xdCqt {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:16px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-C61RwL {
+  background-color:var(--alabaster);
+  height:480px;
+  left:0px;
+  position:absolute;
+  top:880px;
+  width:1440px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-J1YQmd {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:769px;
+  opacity:0.15;
+  position:absolute;
+  top:532px;
+  width:258px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-QxM5SU {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:1047px;
+  opacity:0.15;
+  position:absolute;
+  top:532px;
+  width:216px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:1047px;
+  opacity:0.15;
+  position:absolute;
+  top:401px;
+  width:216px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-mzXdH9 {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:1047px;
+  opacity:0.15;
+  position:absolute;
+  top:467px;
+  width:216px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-oKUHsQ {
+  background-color:var(--buddha-gold);
+  border-radius:8px;
+  height:56px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:160px;
+}
+.create-acccunt-webdesktopmerchant-5 .rectangle-qr8e7q {
+  background-color:rgba(255,255,255,0);
+  border-radius:8px;
+  height:48px;
+  left:769px;
+  opacity:0.15;
+  position:absolute;
+  top:467px;
+  width:258px;
+}
+.create-acccunt-webdesktopmerchant-5 .span1-PLx3Mx {
+  color:rgba(34,34,34,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.00px;
+}
+.create-acccunt-webdesktopmerchant-5 .span2-PLx3Mx {
+  color:rgba(47,128,237,1.0);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+  letter-spacing:0.00px;
+}
+.create-acccunt-webdesktopmerchant-5 .submit-xHxYv9 {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:24px;
+  left:0px;
+  position:absolute;
+  text-align:center;
+  top:17px;
+  white-space:nowrap;
+  width:162px;
+}
+.create-acccunt-webdesktopmerchant-5 .team-member-2-name-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:779px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:477px;
+  white-space:nowrap;
+  width:346px;
+}
+.create-acccunt-webdesktopmerchant-5 .team-member-3-name-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:778px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:542px;
+  white-space:nowrap;
+  width:346px;
+}
+.create-acccunt-webdesktopmerchant-5 .travel-C61RwL {
+  background-color:rgba(0,0,0,0);
+  color:var(--black);
+  height:auto;
+  left:472px;
+  position:absolute;
+  text-align:center;
+  top:57px;
+  white-space:nowrap;
+  width:51px;
+}
+.create-acccunt-webdesktopmerchant-5 .travel-VMr6Om {
+  background-color:rgba(255,255,255,0);
+  color:var(--white);
+  height:auto;
+  left:285px;
+  position:absolute;
+  text-align:center;
+  top:1402px;
+  white-space:nowrap;
+  width:54px;
+}
+.create-acccunt-webdesktopmerchant-5 .twitter-rubtAs {
+  background-color:rgba(255,255,255,0);
+  height:14px;
+  left:5px;
+  position:absolute;
+  top:5px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerchant-5 .twitter-ukH1DM {
+  background-color:rgba(255,255,255,0);
+  height:14px;
+  left:-1px;
+  position:absolute;
+  top:-2px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerchant-5 .vector-2P4qUJ {
+  background-color:rgba(0,0,0,0);
+  height:63px;
+  left:132px;
+  position:absolute;
+  top:1158px;
+  width:61px;
+}
+.create-acccunt-webdesktopmerchant-5 .vector-C61RwL {
+  background-color:rgba(0,0,0,0);
+  height:44px;
+  left:1242px;
+  position:absolute;
+  top:1175px;
+  width:47px;
+}
+.create-acccunt-webdesktopmerchant-5 .vector-J1YQmd {
+  background-color:rgba(0,0,0,0);
+  height:63px;
+  left:205px;
+  position:absolute;
+  top:1158px;
+  width:13px;
+}
+.create-acccunt-webdesktopmerchant-5 .vector-QxM5SU {
+  background-color:rgba(0,0,0,0);
+  height:70px;
+  left:413px;
+  position:absolute;
+  top:1155px;
+  width:56px;
+}
+.create-acccunt-webdesktopmerchant-5 .vector-VMr6Om {
+  background-color:rgba(0,0,0,0);
+  height:56px;
+  left:1246px;
+  position:absolute;
+  top:1159px;
+  width:60px;
+}
+.create-acccunt-webdesktopmerchant-5 .vector-a5WPlX {
+  background-color:rgba(255,255,255,0);
+  height:8px;
+  left:1068px;
+  position:absolute;
+  top:647px;
+  width:10px;
+}
+.create-acccunt-webdesktopmerchant-5 .vector-mzXdH9 {
+  background-color:rgba(0,0,0,0);
+  height:50px;
+  left:937px;
+  position:absolute;
+  top:1164px;
+  width:154px;
+}
+.create-acccunt-webdesktopmerchant-5 .vector-qr8e7q {
+  background-color:rgba(0,0,0,0);
+  height:40px;
+  left:156px;
+  position:absolute;
+  top:1181px;
+  width:12px;
+}
+.create-acccunt-webdesktopmerchant-5 .x-we-worked-with-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:836px;
+  position:absolute;
+  text-align:left;
+  top:990px;
+  white-space:nowrap;
+  width:270px;
+}
+.create-acccunt-webdesktopmerchant-5 .xmlid-229-C61RwL {
+  background-color:rgba(0,0,0,0);
+  height:52px;
+  left:690px;
+  position:absolute;
+  top:1171px;
+  width:60px;
+}
+.create-acccunt-webdesktopmerchant-5 .xmlid-230-C61RwL {
+  background-color:rgba(0,0,0,0);
+  height:17px;
+  left:719px;
+  position:absolute;
+  top:1155px;
+  width:16px;
+}
+.create-acccunt-webdesktopmerchant-5 .your-name--is-account-C61RwL {
+  background-color:rgba(38,38,38,0);
+  font-size:16.0px;
+  height:28px;
+  left:779px;
+  line-height:27.2px;
+  opacity:0.4;
+  position:absolute;
+  text-align:left;
+  top:411px;
+  white-space:nowrap;
+  width:346px;
+}
+.create-acccunt-webdesktopmerchant-5 .your-team--is-account-C61RwL {
+  background-color:rgba(34,34,34,0);
+  color:var(--log-cabin);
+  height:auto;
+  left:168px;
+  opacity:0.7;
+  position:absolute;
+  text-align:left;
+  top:351px;
+  width:796px;
+}
+.font-class-1 {
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:18.0px;
+  font-style:normal;
+  font-weight:400;
+  line-height:28.0px;
+}
+.font-class-10 {
+  font-family:'Arial', Helvetica, Arial, serif;
+  font-size:16.0px;
+  font-style:normal;
+  font-weight:400;
+  line-height:22.0px;
+}
+.font-class-2 {
+  color:var(--shark);
+  font-family:'Cabin', Helvetica, Arial, serif;
+  font-style:normal;
+  font-weight:400;
+}
+.font-class-3 {
+  color:var(--shark);
+  font-family:'Cabin', Helvetica, Arial, serif;
+  font-size:18.0px;
+  font-style:normal;
+  font-weight:700;
+}
+.font-class-4 {
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:14.0px;
+  font-style:normal;
+  font-weight:500;
+  letter-spacing:4.00px;
+  line-height:24.0px;
+}
+.font-class-5 {
+  color:var(--log-cabin);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:40.0px;
+  font-style:normal;
+  font-weight:600;
+  letter-spacing:-1.00px;
+  line-height:50.0px;
+}
+.font-class-6 {
+  color:var(--log-cabin);
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:60.0px;
+  font-style:normal;
+  font-weight:700;
+  letter-spacing:-1.00px;
+  line-height:70.0px;
+}
+.font-class-7 {
+  font-family:'Fira Sans', Helvetica, Arial, serif;
+  font-size:22.0px;
+  font-style:normal;
+  font-weight:500;
+  line-height:32.0px;
+}
+.font-class-8 {
+  font-family:"Fira Sans", Helvetica, Arial, serif;
+}
+.font-class-9 {
+  font-family:"Arial", Helvetica, Arial, serif;
+}
+:root {
+  --alabaster:rgba(250,250,250,1.0);
+  --black:rgba(0,0,0,1.0);
+  --buddha-gold:rgba(196,166,10,0.95);
+  --concrete:rgba(243,243,243,1.0);
+  --eerie-black:rgba(27,27,27,1.0);
+  --fuscous-gray:rgba(81,81,81,1.0);
+  --log-cabin:rgba(34,34,34,1.0);
+  --shark:rgba(38,38,38,1.0);
+  --white:rgba(255,255,255,1.0);
+}

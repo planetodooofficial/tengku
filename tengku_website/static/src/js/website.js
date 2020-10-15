@@ -48,6 +48,23 @@ function submit_validation(submit) {
 
 };
 
+function submit_validation1(submit) {
+
+    var org_name = $('#nick_name').val();
+
+    if ( !org_name ){
+
+        $('.username-or-password-is-incorrect-2139').show();
+
+    }
+    else{
+
+        $('.username-or-password-is-incorrect-2139').hide();
+
+    }
+
+};
+
 
 //    // Material Select Initialization
 //    $(document).ready(function() {

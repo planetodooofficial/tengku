@@ -25,6 +25,11 @@
         'views/account_page2.xml',
         'views/res_city_view.xml',
         'views/multiple_selection.xml',
+        'views/merchant_signup.xml',
+        'views/merchant_account1.xml',
+        'views/merchant_account_page2.xml',
+        'views/merchant_thank_you.xml',
+
 
     ],
     'demo': [

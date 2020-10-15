@@ -50,7 +50,7 @@
                 </xpath>
 
                 <xpath expr="//field[@name='country_id']" position="after">
-                    <field name="city_id" context="{'sate_id': state_id}"/>
+                    <field name="city_id" context="{'state_id': state_id}"/>
                 </xpath>
 
 

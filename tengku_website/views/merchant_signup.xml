@@ -1,0 +1,140 @@
+<odoo>
+    <record id="merchantsignup" model="ir.ui.view">
+        <field name="name">New Merchant Account</field>
+        <field name="type">qweb</field>
+        <field name="key">tengku_website.merchantsignup</field>
+        <field name="arch" type="xml">
+            <t name="Contact Us" t-name="tengku_website.merchantsignup">
+                <t t-call="website.layout">
+                    <div class="oe_structure">
+                        <div class="container" style="width: 1300px;">
+                            <div id="wrap">
+                                <div class="create-acccunt-web-desktop-charity-12 anima-word-break " style="margin-left: -85px;">
+                                    <div style="width: 1360px; height: 100%; position:relative; margin:auto;">
+                                        <div class="create-account0-1">
+                                            Create Account
+                                        </div>
+                                        <div class="contacts3-1">
+                                            Contacts
+                                        </div>
+                                        <div class="about-us4-1">
+                                            About Us
+                                        </div>
+                                        <div class="explore5-1">
+                                            FAQ
+                                        </div>
+                                        <div class="travel6-2">
+                                            Terms
+                                        </div>
+                                        <img alt="Image/" class="givvbantu-logo-27-1" src="/tengku_website/static/src/images/givvbantu-logo-2@2x.png"/>
+                                        <div class="select-type-of-account-below-8">
+                                            Select type of account below...
+                                        </div>
+                                        <div class="download-the-app-to-start-giving9">
+                                            Download the app, to start giving
+                                        </div>
+                                        <div class="download-the-app11">
+                                            DOWNLOAD THE APP
+                                        </div>
+                                        <img alt="Image/" class="download-112" src="/tengku_website/static/src/images/download-1@2x.png"/>
+                                        <img alt="Image/" class="icons8-ios-logo-50-113" src="/tengku_website/static/src/images/icons8-ios-logo-50-1@2x.png"/>
+                                        <div class="ignore-me-also15">
+                                            <div class="rectangle0-1">
+                                            </div>
+                                        </div>
+                                        <a href="/merchantregistration">
+                                        <div class="next16 anima-valign-text-middle">
+                                            <button type="submit" onclick="submit_validation1(this)">NEXT</button>
+                                        </div>
+                                        </a>
+                                        <div class="icon-social-twitter19">
+                                            <img alt="Image/" class="twitter0-1" src="/tengku_website/static/src/images/twitter-13@2x.png"/>
+                                        </div>
+                                        <div class="icon-social-facebook20">
+                                            <img alt="Image/" class="facebook0-1" src="/tengku_website/static/src/images/facebook-2@2x.png"/>
+                                        </div>
+                                        <img alt="Image/" class="icons8-instagram-90-121" src="/tengku_website/static/src/images/icons8-instagram-90-1-2@2x.png"/>
+                                        <div class="rectangle23">
+                                        </div>
+                                        <img alt="Image/" class="vector26-1" src="/tengku_website/static/src/images/vector-41@2x.png"/>
+                                        <img alt="Image/" class="vector27-1" src="/tengku_website/static/src/images/vector-42@2x.png"/>
+                                        <img alt="Image/" class="vector31-1" src="/tengku_website/static/src/images/vector-43@2x.png"/>
+                                        <img alt="Image/" class="xmlid-22934" src="/tengku_website/static/src/images/xmlid-229@2x.png"/>
+                                        <img alt="Image/" class="xmlid-23035" src="/tengku_website/static/src/images/xmlid-230@2x.png"/>
+                                        <img alt="Image/" class="vector39" src="/tengku_website/static/src/images/vector-44@2x.png"/>
+                                        <img alt="Image/" class="vector43-1" src="/tengku_website/static/src/images/vector-45@2x.png"/>
+                                        <img alt="Image/" class="vector46-1" src="/tengku_website/static/src/images/vector-46@2x.png"/>
+                                        <img alt="Image/" class="vector49" src="/tengku_website/static/src/images/vector-47@2x.png"/>
+                                        <div class="lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-50">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                        </div>
+                                        <div class="we-worked-with51">
+                                            — WE WORKED WITH
+                                        </div>
+                                        <div class="our-partners52">
+                                            Our Partners
+                                        </div>
+                                        <div class="ignore-me-also55-1">
+                                            <div class="rectangle0-1">
+                                            </div>
+                                            <div class="i-m-a-center-1">
+                                                I'm Center
+                                            </div>
+                                            <img alt="Image/" class="icons8-charity-100-12" src="/tengku_website/static/src/images/icons8-charity-100-1-1@2x.png"/>
+                                        </div>
+                                        <div class="ignore-me-also57">
+                                            <div class="rectangle0-1">
+                                            </div>
+                                            <img alt="Image/" class="icons8-merchant-account-128-11-1" src="/tengku_website/static/src/images/icons8-merchant-account-128-1-1@2x.png"/>
+                                            <div class="im-a-merchant2">
+                                                I’m a Merchant
+                                            </div>
+                                        </div>
+<!--                                        <img alt="Image/" anima-src="./img/fill-1-1@2x.png" class="fill-159" src="./img/fill-1-1@2x.png">-->
+<!--                                        <img alt="Image/" anima-src="./img/stroke-3-1@2x.png" class="stroke-360" src="./img/stroke-3-1@2x.png">-->
+<!--                                        <img alt="Image/" anima-src="./img/stroke-5-1@2x.png" class="stroke-561" src="./img/stroke-5-1@2x.png">-->
+<!--                                        <img alt="Image/" anima-src="./img/stroke-7-1@2x.png" class="stroke-762" src="./img/stroke-7-1@2x.png">-->
+<!--                                        <img alt="Image/" anima-src="./img/stroke-9-1@2x.png" class="stroke-963" src="./img/stroke-9-1@2x.png">-->
+                                        <div class="background65">
+                                        </div>
+                                        <div class="icon-social-linkedin68">
+                                            <img alt="Image/" class="linkedin0-1" src="/tengku_website/static/src/images/linkedin-4@2x.png"/>
+                                        </div>
+                                        <div class="icon-social-twitter69">
+                                            <img alt="Image/" class="twitter0-1" src="/tengku_website/static/src/images/twitter-14@2x.png"/>
+                                        </div>
+                                        <div class="icon-social-facebook70">
+                                            <img alt="Image/" class="facebook0-1" src="/tengku_website/static/src/images/facebook-14@2x.png"/>
+                                        </div>
+                                        <div class="contacts72-1">
+                                            Contacts
+                                        </div>
+                                        <div class="about-us73-1">
+                                            About Us
+                                        </div>
+                                        <div class="explore74-1">
+                                            FAQ
+                                        </div>
+                                        <div class="travel75-1">
+                                            Terms
+                                        </div>
+                                        <img alt="Image/" class="givvbantu-logo-376" src="/tengku_website/static/src/images/givvbantu-logo-3-4@2x.png"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </t>
+            </t>
+        </field>
+    </record>
+
+        <record id="create_merchant_signup_page" model="website.page">
+        <field name="url">/merchantsignup</field>
+        <field name="is_published">True</field>
+        <field name="view_id" ref="tengku_website.merchantsignup"/>
+        <field name="track">True</field>
+    </record>
+
+
+</odoo>
