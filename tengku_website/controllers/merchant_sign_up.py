@@ -64,7 +64,7 @@ class MerchantSignUpWebPage(http.Controller):
         partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('mer_mem_1'))])
 
         partner_search.sudo().update({
-            'type': 'delivery',
+            # 'type': 'delivery',
             'company_type': 'person',
             # 'name': post.get('org_name') + Shipping Address,
             'street': post.get('address1'),
@@ -88,7 +88,7 @@ class MerchantSignUpWebPage(http.Controller):
         partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('mer_mem_2'))])
 
         partner_search.sudo().update({
-            'type': 'delivery',
+            # 'type': 'delivery',
             'company_type': 'person',
             'email': post.get('email12'),
             'parent_id': main_partner_search.id,
@@ -104,7 +104,7 @@ class MerchantSignUpWebPage(http.Controller):
         partner_search = http.request.env['res.partner'].sudo().search([('name', '=', post.get('mer_mem_3'))])
 
         partner_search.sudo().update({
-            'type': 'delivery',
+            # 'type': 'delivery',
             'company_type': 'person',
             'email': post.get('email13'),
             'parent_id': main_partner_search.id,
